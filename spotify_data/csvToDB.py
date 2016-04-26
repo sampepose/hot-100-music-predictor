@@ -10,9 +10,9 @@ from variables import MACHINE, VUID, PAGE_TABLE, INDEX_TABLE, COLUMN_FAMILY, COL
 
 songs = dict()
 
-for i in os.listdir("./SpotifyData/"):
+for i in os.listdir("./../../musicpredictor/SpotifyData/"):
     if (i.find('.csv') != -1):   #ignore non csv files
-        fname = './SpotifyData/' + i
+        fname = './../../musicpredictor/SpotifyData/' + i
         with open(fname) as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
@@ -45,11 +45,14 @@ for k, v in songs.items():  #put them in the db
     for elem in v:
         #print elem
         data = {}
+        data['song'] = k[0]
+        data['artist'] = k[1]
         data['date'] = elem[0]
         data['position'] = elem[1]
         data['streams'] = elem[2]
-        data['artist'] = k[1]
-        b.put(k[0], {COLUMN_FAMILY + ':' + k[1]: json.dumps(data)})
+        key = k[0] + '_' + k[1]
+        #print (key, {COLUMN_FAMILY + ':' + elem[0]: json.dumps(data)})
+        b.put(key, {COLUMN_FAMILY + ':' + elem[0]: json.dumps(data)})
     b.send()
 
 
