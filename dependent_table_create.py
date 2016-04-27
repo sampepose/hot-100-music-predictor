@@ -1,6 +1,7 @@
 import happybase
 import json
 from datetime import datetime
+from collections import defaultdict
 
 from variables import MACHINE, VUID, PAGE_TABLE_SPOTIFY, BBRD_TABLE, DEPENDENT_TABLE, DEPENDENT_COLUMN_FAMILY, DEPENDENT_COLUMN
 
@@ -38,13 +39,15 @@ def index():
             song_artists[key] = {'title': data['song'], 'artist': data['artist'], 'isHot': False}
 
     spotify_start_date = datetime.strptime('2015-04-25', '%Y-%m-%d')
-
+    
+    bbrd_artist_count_map = defaultdict(int)
     bbrd_count = 0
     bbrd_seen_songs = []
     for key, data in bbrd_table.scan():
         key = key.lower()
         data = json.loads(data.itervalues().next())
         date = datetime.strptime(data['date'], '%Y-%m-%d')
+        bbrd_artist_count_map[data['artist']] += 1
         if date < spotify_start_date:
             continue
         if key not in bbrd_seen_songs:
@@ -60,6 +63,7 @@ def index():
 
     for sa in song_artists:
         data = song_artists[sa]
+        data['ArtistPopularity'] = bbrd_artist_count_map[data['artist']]
         key = DEPENDENT_COLUMN_FAMILY + ":" + DEPENDENT_COLUMN
         b.put(sa, {key: json.dumps(data)})
     b.send()
@@ -68,8 +72,6 @@ def index():
     print("BBRD count", bbrd_count)
     print("Total count", len(song_artists))
     print("Overlap", (bbrd_count + spotify_count) - len(song_artists))
-
-
 
 if __name__ == '__main__':
     index()
