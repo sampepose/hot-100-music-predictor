@@ -1,9 +1,13 @@
 VUID = 'kovarzm'
 MACHINE = 'vmp747'
 
-PAGE_TABLE_SPOTIFY = 'MusicTable'
+PAGE_TABLE_SPOTIFY = 'SpotifyTable'
 COLUMN_FAMILY_SPOTIFY = 'song'
 COLUMN_SPOTIFY = 'data'
+
+PAGE_TABLE_SPOTIFY_TRACKS = 'TrackID'
+TRACK_COLUMN_FAMILY = 'track'
+TRACK_COLUMN = 'data'
 
 BBRD_TABLE = 'Billboard'
 BBRD_COLUMN_FAMILY = 'date'
