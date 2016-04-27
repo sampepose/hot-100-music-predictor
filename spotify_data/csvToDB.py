@@ -6,9 +6,11 @@ import sys
 import csv
 import os
 
-from variables import MACHINE, VUID, PAGE_TABLE, INDEX_TABLE, COLUMN_FAMILY, COLUMN
+from variables import MACHINE, VUID, PAGE_TABLE_SPOTIFY, COLUMN_FAMILY_SPOTIFY, COLUMN_SPOTIFY, PAGE_TABLE_SPOTIFY_TRACKS, TRACK_COLUMN_FAMILY, TRACK_COLUMN
 
 songs = dict()
+
+urls = dict()
 
 for i in os.listdir("./../../musicpredictor/SpotifyData/"):
     if (i.find('.csv') != -1):   #ignore non csv files
@@ -19,7 +21,8 @@ for i in os.listdir("./../../musicpredictor/SpotifyData/"):
                 row['Date'] = i[0:10]
                 
                 songdata = (row['Date'],row['Position'], row['Streams'])
-
+                #filter out: https://open.spotify.com/track/
+                trackID = row['URL'][31:]
                 songtitle = (row['Track Name'], row['Artist'])
 
                 if songtitle in songs:
@@ -29,30 +32,36 @@ for i in os.listdir("./../../musicpredictor/SpotifyData/"):
                     a.append(songdata)
                     songs[songtitle] = a
 
+                if songtitle not in urls:
+                    urls[songtitle] = trackID
+
+connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
+table = connection.table(PAGE_TABLE_SPOTIFY_TRACKS)
+b = table.batch()
+for k,v in urls.items():
+    data = {}
+    data['trackID'] = v
+    key = k[0] + '_' + k[1]
+    b.put(key, {TRACK_COLUMN_FAMILY + ":" + TRACK_COLUMN: json.dumps(data)})
+b.send()
+
 #add songs to hbase
 
 connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
-table = connection.table(PAGE_TABLE)
+table = connection.table(PAGE_TABLE_SPOTIFY)
 b = table.batch()
 
 for k, v in songs.items():  #put them in the db
-    #k[0] = song
-    #k[1] = artist
-    #v[0] = date
-    #v[1] = position
-    #v[2] = num_stream
-    #print k[0]
     for elem in v:
         #print elem
         data = {}
         data['song'] = k[0]
         data['artist'] = k[1]
-        data['date'] = elem[0]
+        # data['date'] = elem[0]
         data['position'] = elem[1]
         data['streams'] = elem[2]
         key = k[0] + '_' + k[1]
-        #print (key, {COLUMN_FAMILY + ':' + elem[0]: json.dumps(data)})
-        b.put(key, {COLUMN_FAMILY + ':' + elem[0]: json.dumps(data)})
+        b.put(key, {COLUMN_FAMILY_SPOTIFY + ':' + elem[0]: json.dumps(data)})
     b.send()
 
 
