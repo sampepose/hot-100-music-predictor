@@ -12,3 +12,7 @@ TRACK_COLUMN = 'data'
 BBRD_TABLE = 'Billboard'
 BBRD_COLUMN_FAMILY = 'date'
 BBRD_COLUMN = 'data'
+
+DEPENDENT_TABLE = 'Dependent'
+DEPENDENT_COLUMN_FAMILY = 'song'
+DEPENDENT_COLUMN = 'data'
