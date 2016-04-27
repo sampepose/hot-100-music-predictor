@@ -4,6 +4,7 @@ import happybase
 import json
 import sys
 import csv
+import re
 import os
 
 from variables import MACHINE, VUID, PAGE_TABLE_SPOTIFY, COLUMN_FAMILY_SPOTIFY, COLUMN_SPOTIFY, PAGE_TABLE_SPOTIFY_TRACKS, TRACK_COLUMN_FAMILY, TRACK_COLUMN
@@ -12,9 +13,9 @@ songs = dict()
 
 urls = dict()
 
-for i in os.listdir("./../../musicpredictor/SpotifyData/"):
+for i in os.listdir("./data/"):
     if (i.find('.csv') != -1):   #ignore non csv files
-        fname = './../../musicpredictor/SpotifyData/' + i
+        fname = './data/' + i
         with open(fname) as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
@@ -23,7 +24,9 @@ for i in os.listdir("./../../musicpredictor/SpotifyData/"):
                 songdata = (row['Date'],row['Position'], row['Streams'])
                 #filter out: https://open.spotify.com/track/
                 trackID = row['URL'][31:]
-                songtitle = (row['Track Name'], row['Artist'])
+                title = row['Track Name']
+                title = re.sub(r'\(feat.*\)', '', title).strip()
+                songtitle = (title, row['Artist'])
 
                 if songtitle in songs:
                     songs[songtitle].append(songdata)
