@@ -5,12 +5,11 @@ import unicodedata
 
 from time import sleep
 
-from variables import BBRD_TABLE, VUID, MACHINE, BBRD_COLUMN_FAMILY
+from .variables import BBRD_TABLE, VUID, MACHINE, BBRD_COLUMN_FAMILY
 
 target_chart = 'hot-100'
 
 cur_chart = billboard.ChartData(target_chart, "2003-11-29")
-
 
 connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
 table = connection.table(BBRD_TABLE)
@@ -46,4 +45,4 @@ while(cur_chart.previousDate):
     b.send()                                                                                           
     sleep(2)
     cur_chart = billboard.ChartData(target_chart, cur_chart.previousDate)
-
+    
