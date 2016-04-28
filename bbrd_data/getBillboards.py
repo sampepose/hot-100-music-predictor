@@ -5,7 +5,7 @@ import unicodedata
 
 from time import sleep
 
-from .variables import BBRD_TABLE, VUID, MACHINE, BBRD_COLUMN_FAMILY
+from variables import BBRD_TABLE, VUID, MACHINE, BBRD_COLUMN_FAMILY
 
 target_chart = 'hot-100'
 
