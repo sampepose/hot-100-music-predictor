@@ -49,6 +49,9 @@ for k,v in billboard_only.items():
             for a,b in url.items():
                 url_list.append((k,v,b))
 
+for i in url_list:
+    print i
+
 # 9 missing ones
 
 # billboard_only ---- dict [song]:[artist]
