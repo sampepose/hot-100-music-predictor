@@ -16,3 +16,7 @@ BBRD_COLUMN = 'data'
 DEPENDENT_TABLE = 'Dependent'
 DEPENDENT_COLUMN_FAMILY = 'song'
 DEPENDENT_COLUMN = 'data'
+
+DCOG_TABLE = 'Discogs'
+DCOG_COLUMN_FAMILY = 'stuff'
+DCOG_COLUMN = 'data'
