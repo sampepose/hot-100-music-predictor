@@ -1,6 +1,11 @@
 VUID = 'kovarzm'
 MACHINE = 'vmp747'
 
+SPOTIFY_TABLE = 'Spotify'
+SPOTIFY_COLF = 'song'
+SPOTIFY_COL = 'data'
+
+
 PAGE_TABLE_SPOTIFY = 'SpotifyTable'
 COLUMN_FAMILY_SPOTIFY = 'song'
 COLUMN_SPOTIFY = 'data'
