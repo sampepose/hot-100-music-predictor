@@ -8,7 +8,7 @@ import numpy as np
 
 from variables import MACHINE, VUID, TABLE_S_FIXED
 
-def getSpotifyFeatures():
+def getSpotifyFeatures(keys):
     
     connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
     table = connection.table(TABLE_S_FIXED)
@@ -25,7 +25,12 @@ def getSpotifyFeatures():
 
     spotify_features = []
 
-    for key, d in table.scan():
+    for key in keys:
+        d = table.row(key[0])
+
+        if not d:
+            print "Missing: " + key[0]
+            continue
 
         data = json.loads(d.itervalues().next())
         

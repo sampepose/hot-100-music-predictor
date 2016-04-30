@@ -1,6 +1,7 @@
 # conda install scikit-learn
 import scipy
 import numpy as np
+import itertools
 from sklearn import linear_model
 from sklearn.metrics import roc_auc_score, accuracy_score
 from sklearn.naive_bayes import GaussianNB
@@ -9,6 +10,7 @@ from sklearn.cross_validation import StratifiedKFold
 
 from getDependentFeatures import getDependentFeatures
 from twitter.getFeatures import getTwitterFeatures
+from spotify_data.machinelearning.getSpotifyFeatures import getSpotifyFeatures
 
 def test_classifier(clf, X, Y):
     folds = StratifiedKFold(Y, 5)
@@ -24,27 +26,44 @@ def test_classifier(clf, X, Y):
         prediction_proba = clf.predict_proba(X[test])
         accs.append(accuracy_score(Y[test], prediction))
         aucs.append(roc_auc_score(Y[test], prediction_proba[:, 1]))
-    print "Accuracy", clf.__class__.__name__, np.mean(accs)
-    print "AUC", clf.__class__.__name__, np.mean(aucs)
+    print "Acc:\t", clf.__class__.__name__, "\t", np.mean(accs)
+    #print "AUC:\t", clf.__class__.__name__, "\t", np.mean(aucs)
 
 
 def main():
     keys, depfeatures, labels = getDependentFeatures()
     twitter_features = getTwitterFeatures(keys)
+    spotify_features = getSpotifyFeatures(keys)
 
-    X = np.hstack((depfeatures, twitter_features)) # other features go here
+    XIdxs = [0, 1, 2]
+    XNames = ["Dep", "Twitter", "Spotify"]
+    Xs = [depfeatures, twitter_features, spotify_features]
     Y = labels
 
-    print X[1:5, :]
+    # Test each feature set combination
+    for L in range(0, len(XIdxs) + 1):
+        for subset in itertools.combinations(XIdxs, L):
+            if len(subset) == 0:
+                continue
 
-    clf = linear_model.SGDClassifier(loss='log')
-    test_classifier(clf, X, Y)
+            out = ""
+            for i in subset:
+                out += XNames[i]
+            print out
 
-    clf = GaussianNB()
-    test_classifier(clf, X, Y)
+            XSubset = [Xs[i] for i in subset]
+            X = np.hstack(tuple(XSubset))
+        
+            clf = linear_model.SGDClassifier(loss='log')
+            test_classifier(clf, X, Y)
 
-    clf = RandomForestClassifier(n_estimators=10, max_depth=10)
-    test_classifier(clf, X, Y)
+            clf = GaussianNB()
+            test_classifier(clf, X, Y)
+
+            clf = RandomForestClassifier(n_estimators=10, max_depth=10)
+            test_classifier(clf, X, Y)
+
+            print "\n"
 
 if __name__ == '__main__':
     main()
