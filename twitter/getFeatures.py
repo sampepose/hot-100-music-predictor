@@ -16,8 +16,8 @@ def getTwitterFeatures(keys):
 
     features = []
     for key in keys:
-        title_row = table.row(key[1])
-        artist_row = table.row(key[2])
+        title_row = table.row(key[1].lower().strip())
+        artist_row = table.row(key[2].lower().strip())
     
         title_count = 0
         artist_count = 0
