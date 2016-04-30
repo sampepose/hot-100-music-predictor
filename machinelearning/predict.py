@@ -11,6 +11,7 @@ from sklearn.cross_validation import StratifiedKFold
 from getDependentFeatures import getDependentFeatures
 from twitter.getFeatures import getTwitterFeatures
 from spotify_data.machinelearning.getSpotifyFeatures import getSpotifyFeatures
+from discogs_data.machinelearning.getFeatures import getDiscogsFeatures
 
 def test_classifier(clf, X, Y):
     folds = StratifiedKFold(Y, 5)
@@ -34,10 +35,11 @@ def main():
     keys, depfeatures, labels = getDependentFeatures()
     twitter_features = getTwitterFeatures(keys)
     spotify_features = getSpotifyFeatures(keys)
+    discogs_features = getDiscogsFeatures(keys)
 
     XIdxs = [0, 1, 2]
     XNames = ["Dep", "Twitter", "Spotify"]
-    Xs = [depfeatures, twitter_features, spotify_features]
+    Xs = [depfeatures, twitter_features, spotify_features,discogs_features]
     Y = labels
 
     # Test each feature set combination
