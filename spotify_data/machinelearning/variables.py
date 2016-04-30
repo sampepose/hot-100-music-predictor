@@ -17,10 +17,6 @@ DEPENDENT_TABLE = 'Dependent'
 DEPENDENT_COLUMN_FAMILY = 'song'
 DEPENDENT_COLUMN = 'data'
 
-DCOG_TABLE = 'Discogs'
-DCOG_COLUMN_FAMILY = 'stuff'
-DCOG_COLUMN = 'data'
-
 TABLE_NAME_S = 'SpotifyFeatures'
 COLUMN_FAMILY_S = 'song'
 COLUMN_S = 'data'
@@ -33,4 +29,3 @@ TWITTER_TABLE = 'Twitter'
 TWITTER_COLUMN_FAMILY = 'counts'
 TWITTER_ARTIST_COLUMN = 'artist'
 TWITTER_TITLE_COLUMN = 'title'
-

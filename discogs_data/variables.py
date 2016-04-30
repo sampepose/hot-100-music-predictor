@@ -20,17 +20,3 @@ DEPENDENT_COLUMN = 'data'
 DCOG_TABLE = 'Discogs'
 DCOG_COLUMN_FAMILY = 'stuff'
 DCOG_COLUMN = 'data'
-
-TABLE_NAME_S = 'SpotifyFeatures'
-COLUMN_FAMILY_S = 'song'
-COLUMN_S = 'data'
-
-TABLE_NAME_BB = 'BillboardFeatures'
-COLUMN_FAMILY_BB = 'song'
-COLUMN_BB = 'data'
-
-TWITTER_TABLE = 'Twitter'
-TWITTER_COLUMN_FAMILY = 'counts'
-TWITTER_ARTIST_COLUMN = 'artist'
-TWITTER_TITLE_COLUMN = 'title'
-

@@ -17,7 +17,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/c7ODrAOx0JwIkM_8PKzO7Mcbg-_GO5NMzHeKnH7riR-MzroxkN49hOpSP24MfmbquDJCAv83XPuHuS-8A=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869915&Signature=mpYpASOIqOBV9Zsqlhhftr%2B1YNQ%3D",
   "duration_ms" : 251467,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.821,
   "energy" : 0.563,
   "key" : 1,
@@ -36,7 +37,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/UoMmIgVIPVo28dLpCf8BvlcQ28c3OzUm_3HxTs4cbFqa1hnidoPn4oVLFw5O8M_UoGoMZbpKeYF7zrnns=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869915&Signature=OenAZfriCM3k0vpIaFajFDCK0q4%3D",
   "duration_ms" : 147240,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.878,
   "energy" : 0.561,
   "key" : 11,
@@ -55,7 +57,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/FUcxSAm2H509Okbf-c03e41V5jM2arPBzx3SYpKYuj1DDYaIpdXT12d5Mzxsbkj5v9O_4JvlHL6tdi6Ps=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869915&Signature=gU6L7qGtQsHyD6XFxwF939cU1sY%3D",
   "duration_ms" : 236748,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.618,
   "energy" : 0.812,
   "key" : 3,
@@ -74,7 +77,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/IgNBCQVlptSQ2u78OxJuAROJsuv5pVWmc-lz-l9EUWmmdg3jyIO1Lly04Is93ZHhwnQOYim7kJiQJ3NHY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869916&Signature=6INex7qNWNqjK621RTzjMSXu3Jk%3D",
   "duration_ms" : 253080,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.557,
   "energy" : 0.853,
   "key" : 0,
@@ -93,7 +97,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/qpcMqg4yYiFzgR7Nnbwk5kzLk8MWXxWrgtTtJ7iaE2hdexhxdYuq_ofnwd9A7fj4IXe4W3zNamyB21pUQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869916&Signature=oYGz21L6TMUgxPCkipmffDX9mI0%3D",
   "duration_ms" : 181387,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.462,
   "energy" : 0.538,
   "key" : 0,
@@ -112,7 +117,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/EESdewrhinjOxjqJsUEfzU1Fk-jeR6fLtP6RApWN4ACW6a3SFlYMUleZ7VZL-fWM1mlteGbIp5eQrJvbE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869917&Signature=aLWxmrRPqYTdxSlp/kGpORMDORU%3D",
   "duration_ms" : 203507,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.536,
   "energy" : 0.721,
   "key" : 10,
@@ -131,7 +137,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/PjNXQQblMlWQDSuM53l0n62VMW2Y7CTFih5UDXPW8O4J3RjK159ZOZUS9CQ40UtjPbDKHz8xilTtLl55U=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869917&Signature=uI0BCUm4C4Pl6HYVuDeIQFvfShY%3D",
   "duration_ms" : 191942,
   "time_signature" : 5
-}{
+},
+{
   "danceability" : 0.543,
   "energy" : 0.589,
   "key" : 4,
@@ -150,7 +157,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/7Xzz2whbHYyVeOdi_VaRo3oFurI94uPdFMO8znr3PZrLRhvohjjMf7hwwFGabQVAhe5ovPs5F-G5tzssY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869917&Signature=eRVSUuva5KScoWHxQeE%2BDEEIeYY%3D",
   "duration_ms" : 210573,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.812,
   "energy" : 0.479,
   "key" : 8,
@@ -169,7 +177,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/kgi8YgPETGkXGiJ0YOwzXw0KD1PVyw24ZAfV8gZu0H5XwdJXWJR8FEaH2Z8j8aLuwezBKJmQ8z65MsQTo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869918&Signature=YP0jlAuMxeH5wMmpEAIjWH25Ybg%3D",
   "duration_ms" : 173045,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.503,
   "energy" : 0.843,
   "key" : 10,
@@ -188,7 +197,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/PyISegPhuTYSXJX7i_wwSCoOyFGTQz2TtA1LbwFNHyRLAdkRqYynmx5Q61J24PYoO4IDwpybeTUh4QgcA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869918&Signature=QC0ldp5QbjDt74BQCWnrjIb4tcA%3D",
   "duration_ms" : 203105,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.497,
   "energy" : 0.312,
   "key" : 11,
@@ -207,7 +217,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/alrxeATCzX_giabx2RKrdMctRlK1OBaSrLSAyGErAsgjLGspjy5sIN9v9li9DOkSvEBogZjXJmcJY-QaY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869919&Signature=BGq9FT7WsjHd5WsFR/7ZGZdHSXw%3D",
   "duration_ms" : 203373,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.897,
   "energy" : 0.598,
   "key" : 2,
@@ -226,7 +237,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/x-7sYwmfntvcOBT9ox3TnC3nUMM51Y60d7spuAVtC0Q-XjgZaMDFEzTCH3ULTUL2LKy2qaMzTBbcnzDTg=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869919&Signature=Tfi118vupnBImjPusQAculogZOI%3D",
   "duration_ms" : 255253,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.770,
   "energy" : 0.690,
   "key" : 1,
@@ -245,7 +257,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/eDpe6gx2bcaqezDvFla5Feuvmofzjqo-WeOcBGKttVVBYEWy6cZIkU3TbQbehADNlytTiFgHLl0KRU9qI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869919&Signature=X8%2BjXOZ3OCi%2Bw5Es/B/xxWfJ34M%3D",
   "duration_ms" : 178507,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.630,
   "energy" : 0.889,
   "key" : 7,
@@ -264,7 +277,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/NH7b-w_Vsll2u1T0yg7V2m6x_7BRLNEJB0m3B4DBTxTxkPkVDp03u1Ye-Z-nZvfv-J86rBNFnQgIQ1kZ0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869920&Signature=0lzlYLmwrdpzsoRX3oTmfL4cHLo%3D",
   "duration_ms" : 174507,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.728,
   "energy" : 0.654,
   "key" : 1,
@@ -283,7 +297,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/aT3t6wQ7R3Lyo5nMa7EujdhiWsCUvulfk4Jr-OKLs8XXmNDtMS_7YDOPx8YCRBCX0yApjtPLrx5V8ImdQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869920&Signature=3q5Mj1yr8YCZi%2B5C/MV9YqMh5ag%3D",
   "duration_ms" : 337053,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.736,
   "energy" : 0.743,
   "key" : 1,
@@ -302,7 +317,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/noSVkgv3rQYJBUl2pcBBWGXbs6WLJab2UhCbNz44K79nnmAC8NYlSZhRfXI00GfPC8Ko1FHJ3V1Ov-jUU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869921&Signature=GP3UCfVUOG6a%2BzL4kX5XksTgedE%3D",
   "duration_ms" : 200936,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.608,
   "energy" : 0.560,
   "key" : 8,
@@ -321,7 +337,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/fh6R1gVXWW9mqd2g1ROyHJ7Jxdg5ITok4DfdbyEupeQz1RyL2F1SBPQIOkO8VCSUwlXMeaLISMkYmqq5Q=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869921&Signature=tYN8r3Tbg%2BhjFl4Gk9/ZMZGreg4%3D",
   "duration_ms" : 231845,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.318,
   "energy" : 0.838,
   "key" : 6,
@@ -340,7 +357,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/VHZZ2QawAt430hXbThCpchVTl9L4fwHcMCF3MHEZvT-hynIObclo1V8wQgUhNlAby6pM7tHANpHPkg4mE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869921&Signature=E74qZsJe6xoaKWYqYzWxAHhep0Q%3D",
   "duration_ms" : 213019,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.713,
   "energy" : 0.802,
   "key" : 4,
@@ -359,7 +377,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/BY1yJQjv5cuO60dfpWmGlovu2W7CNIpKkHYiDCUOOsBmK7L6ywhevODRZmDjXTZHSoW38AEelci3gCARM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869922&Signature=JtBLAUQgF3duFVfV7YmMPuo6q7k%3D",
   "duration_ms" : 226739,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.749,
   "energy" : 0.701,
   "key" : 1,
@@ -378,7 +397,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Gw94owNGHnG9HERtwE_wf1QviO4EvF0xvJ9scC02uUsK1LaNVlLsz8Lf-3PsmZx3sKpxyj9lMc018yI28=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869922&Signature=TO0CwiZPOdNq8%2BCZMGXQ4z6fpec%3D",
   "duration_ms" : 216653,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.841,
   "energy" : 0.611,
   "key" : 10,
@@ -397,7 +417,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Ld4Pkwzsi5LCq5_h3-ZBtWFHlKQFvPGy10BWQr7Go1nd2L9YWS-DNUqT9kt29hs4FTzrVC72EqRF5Kwaw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869923&Signature=Bh89tpaPOx9AnFpmEMAzeUsdHbQ%3D",
   "duration_ms" : 217226,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.565,
   "energy" : 0.832,
   "key" : 10,
@@ -416,7 +437,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Sl9p7QNZ7uaC1Prow7rhhw4F0J9UejEKYpL5CN2hoVMU7oThMcgAzLR9_P1IkoN_sVh_gN6tuyaT7AAwI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869923&Signature=iQkowp3j6uDpGxRP/dmnL/8Nfus%3D",
   "duration_ms" : 192133,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.856,
   "energy" : 0.609,
   "key" : 0,
@@ -435,7 +457,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/pZ-SLAJ4ecRmRLjDObIRaE3KEYofN-cP824oZoIFG1lqr-owsqgrYgPMP0-7pZxVa08wzAlGXhisp5RzQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869923&Signature=ko2V0XdCK6p2KezoUuBHyBTZ%2B0A%3D",
   "duration_ms" : 269667,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.672,
   "energy" : 0.912,
   "key" : 2,
@@ -454,7 +477,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/0UMnsQZZv8_zuVfH_zI7769eQzgoI4CTJYHd2Y-neVAhqoaf3c88tS_hXxfeWXZkJYQxBK3MVFwNiwEX0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869924&Signature=sVisUZkVcR%2BjA2nOkqGJpxEtgd8%3D",
   "duration_ms" : 491339,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.512,
   "energy" : 0.366,
   "key" : 1,
@@ -473,7 +497,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/iVgmwwIb4PNN9msVFExKGruy26-pa0FwCSIImB3gQP2J0tEMD1J883Exk0lWQ0tjhurrpAotAj_th22ZE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869924&Signature=Ie5xeYi%2BWtBO0KwlfSnDgtVu7YM%3D",
   "duration_ms" : 314632,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.605,
   "energy" : 0.768,
   "key" : 0,
@@ -492,7 +517,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/d-KgbALWQgud4PxgYLYphaZlmj6vUk9sSBYT0jvzvbgiHoY-Ss-zs3cjXDNlm330NECWw5J9sannkiuoA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869925&Signature=Hu0r2LSZqiFuvF6Wc5I8DsROluw%3D",
   "duration_ms" : 200787,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.488,
   "energy" : 0.833,
   "key" : 11,
@@ -511,7 +537,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/6IZNYwGeX3tzpkiPKCUFr0nduYBorN6Zv_eSwjsOE4iehQEN7ImTTmHS8PkwzjxJuBVJopA7WPBJMxjMo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869925&Signature=e5W/nOQDzy%2BbALRUTr/h6gogo0A%3D",
   "duration_ms" : 236787,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.893,
   "energy" : 0.682,
   "key" : 9,
@@ -530,7 +557,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/CXhU1gmL6vBGTNFAVVWKUkuP5IuVU40DjwCNYM87GuDfYo1IXlEjHhF7-DfgOoeQgCKLK379BWnX_mnKQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869925&Signature=uks5TIwSwH1FnzK4LVw1x7Qj/fI%3D",
   "duration_ms" : 209467,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.803,
   "energy" : 0.631,
   "key" : 8,
@@ -549,7 +577,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/JoPT0AGz78UKQWx5ziWkvjHiCi64iMJQFHo3uOR2nMp4QKixZ62UsvqSLq5ubU8ucKZRB9Z_ojcviNi0g=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869926&Signature=hWW9b/rnwC8BqeF16hv4TA8FL8g%3D",
   "duration_ms" : 216575,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.546,
   "energy" : 0.959,
   "key" : 8,
@@ -568,7 +597,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/6nQ3GgRVqEzxAGo3JYjrLMGGgMk-cFvWKvuYSuJhqhK1_BcSllYRiV-tojRzlfNyEKcPRTHExvNtsKn6M=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869926&Signature=5O37NSH/g1iRhs87UmmLnDT7VfI%3D",
   "duration_ms" : 207213,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.484,
   "energy" : 0.356,
   "key" : 1,
@@ -587,7 +617,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/XmahQQAzj4IatffFcIR1CtpPOb7i5Kbmz5YMdOKcOadmT926HSDJUiAoD9mVDOQ5nYeiYQah-GPRKEXK0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869927&Signature=f25xUrarJX6ON%2BX/JKdIT05sZIQ%3D",
   "duration_ms" : 116532,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.612,
   "energy" : 0.863,
   "key" : 1,
@@ -606,7 +637,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/AIv9ygAdZL3bWMmeNwV9UfVcsLUqSXhGaW4qc-czuAEYU-tasCl4XcmwbUZJrc3paAswvRno78CsPW-ks=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869927&Signature=O3w7TP0swe8Qh6AkNTXLn4RGCvg%3D",
   "duration_ms" : 186240,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.875,
   "energy" : 0.673,
   "key" : 7,
@@ -625,7 +657,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/2ICUuwl2F8CM7-P6byvEwItpPnswek0tnBQEiiRjIOd948ZkyRkR99npCBPsOjPmMQXiBfKmhUTaFDM_Y=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869928&Signature=cCUyhFlaPQMmSyAgXPVoGofs06s%3D",
   "duration_ms" : 222600,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.897,
   "energy" : 0.642,
   "key" : 2,
@@ -644,7 +677,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/6HowTAFahJNMhIp-7Pj21cRywx977rHHPXoUwsoOpfxLHznlsJg6KVgvBM8dAKHRZidT-Q58TH0NhRPhc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869928&Signature=B/xQaXxdkm3XBCPzzi7aXUR6Las%3D",
   "duration_ms" : 285240,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.632,
   "energy" : 0.516,
   "key" : 6,
@@ -663,7 +697,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/31dpHgs2A7ytXabXrnMCZtneV0KoXwTDU4CU5lDvXokYGKolocw4soi8Kb2vNJ9bXyOsUvfRZJ7XACXkE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869928&Signature=UwyXYb7EgViVSrMRZoVqwX%2Boqx8%3D",
   "duration_ms" : 260453,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.620,
   "energy" : 0.764,
   "key" : 8,
@@ -682,7 +717,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/NFyxKgwafDEfqAs7t0PCnv3o8RW2qPoXdf-JaR75bzmsK_wNP9ORFdwXQWMCuZRhJm6_MhP0EtyVTQULY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869929&Signature=IITK0XbLYjLm8ppuXpq%2BGbawxVI%3D",
   "duration_ms" : 209253,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.468,
   "energy" : 0.745,
   "key" : 6,
@@ -701,7 +737,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/LdhQiQkJOQUSXNahfWzlCIP0ePlr7GY-JSTrMoJ-UMHeBkcK1a6NrOBZ36KIzYEoOgF8ZHEXX-8a_6E14=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869929&Signature=UFTNYbpV/ZGgHAi7z57wnV7tFKA%3D",
   "duration_ms" : 196040,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.563,
   "energy" : 0.855,
   "key" : 6,
@@ -720,7 +757,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/cYfySAL321V7aWl6l27c_jxRE9yT94edZewofLpGPOJG7B2FcopFjM_hek9xx02FgC5XIwkkS8HAfvRIE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869929&Signature=FgCsL0TWdHAkK4Z/eXZWM0lwlY0%3D",
   "duration_ms" : 194253,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.538,
   "energy" : 0.775,
   "key" : 7,
@@ -739,7 +777,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/5QlpxQQZLcmtiGKcmzQCFrNSHVYjBK55lTJ0Mem3Yg_TbvXJSXTaD36SnO0qiJxIXhVfxmrH3HkapAoX8=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869930&Signature=YC36fFzNsB6B%2BetXcr1QXEyU5rU%3D",
   "duration_ms" : 182213,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.797,
   "energy" : 0.469,
   "key" : 8,
@@ -758,7 +797,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/eSkMsQpAedOLVpS7-Y3FBCGHBS9iqjbEtKbSdsUFZzKEZ_p-3Zq1Fyd-yppZP2tcXspqNCPz5XANnDIGQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869930&Signature=iCCrMgoVHBihPfzmMvHo6bvSAoc%3D",
   "duration_ms" : 224240,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.618,
   "energy" : 0.239,
   "key" : 8,
@@ -777,7 +817,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/WAigBwQKjZHaEezjTw9wfg8C3-QnN92XeINn6bJlxhKn0fJoqJik44-eJI1egJyD8acbjBRrn7NWFbJ8s=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869931&Signature=IlgLJ248YfYNeHdQjeZhZTISop0%3D",
   "duration_ms" : 404480,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.448,
   "energy" : 0.992,
   "key" : 7,
@@ -796,7 +837,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/xcwwkAN7M9iv3GgXCfLj3wE-LHgVqgUnxx_I8jkk4ptXuSPzAwVWK6zmY_zuxcyJc2a-evvqx63Hjhl1E=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869931&Signature=NHjDDuljByiC/LY3OY0sF5U8XdI%3D",
   "duration_ms" : 291429,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.407,
   "energy" : 0.558,
   "key" : 0,
@@ -815,7 +857,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/D8u_lQZTSETkPoz12Q8EvZmRs3RPyc6VqrmGWb_U7_p_iCo_OgX-wv_BLLcR7de8Qez2pmMjANyOgeGPs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869932&Signature=YRXUsvGjcRu77xBmNgHkyT2becU%3D",
   "duration_ms" : 258093,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.508,
   "energy" : 0.720,
   "key" : 11,
@@ -834,7 +877,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/qpHf6QNFZUzlLzZnwZfUvGZ9ds0Cv-MwtKIRhlMEPzp6ogzI3Cdzhy54o_PGBOH7IWKN8aoKHBt-FSCpg=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869932&Signature=QHCde/KgHhYmlyNSComzdyeqKnk%3D",
   "duration_ms" : 261640,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.485,
   "energy" : 0.748,
   "key" : 6,
@@ -853,7 +897,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/qkH9AgO9sLsNJ1SgUfHIjj9LzPyC4-rybiZYPd6EhDP-YZDKSzV2QFDja3OiqIMCj6P9BOGX2dMWJ0bPs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869932&Signature=xpa86oZ1dTEJBGOnCxvaTFJ1wLs%3D",
   "duration_ms" : 231874,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.349,
   "energy" : 0.486,
   "key" : 11,
@@ -872,7 +917,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/kVZDdw6bA76DnOumFNAp3kRqdYb4VaMkZxnZYhsHDpR8C4NjXHaLRIqvQJLZkQmJHayNGW_TO9WtlzEuc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869933&Signature=9R0/lYseRuME9ALnMlJEPP0/KN0%3D",
   "duration_ms" : 257360,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.583,
   "energy" : 0.732,
   "key" : 11,
@@ -891,7 +937,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/712f2Abov6cSoiwYAgKPsOnEtcPhqt9h6CVqAiNNvxAK8wA9v26wFfw7eco6T7QRN1VN7n5symX3upY0w=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869933&Signature=BkuzzFZFtgsFV%2BA7T9Sn99I7cI4%3D",
   "duration_ms" : 213428,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.778,
   "energy" : 0.741,
   "key" : 10,
@@ -910,7 +957,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/oyHHdAZVlIYaRXBA7qNF3ezlQ_kt_esHD7cfjMPg5YdqpZzqwQrSPBTib54V_JIn4_zDT4x-VC5eqSZjc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869934&Signature=y%2BnLcYeLgFEg2wbf0VwC/8lNi28%3D",
   "duration_ms" : 219306,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.893,
   "energy" : 0.542,
   "key" : 2,
@@ -929,7 +977,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/SVzHagTZFhJJ9cQr6AF6THRNI_4PdTsa-Mgrd-AhN6oKqd1T1vL6gFjTtylrEN8v1ziG2Ru7ZYiWGt-yM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869934&Signature=9jyDk6GBTb9zwTYowVGImb/roBk%3D",
   "duration_ms" : 231231,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.741,
   "energy" : 0.488,
   "key" : 8,
@@ -948,7 +997,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/dQzL_wcgRdwhhLshPkXos2wlqAhwk2wneWNvLSTPUVQX1oUQUw_bhoQYZxIjH1baEanIN47_NT2uYGjXU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869934&Signature=E9hFxP8ImsTfYPddq62T4hTGTmE%3D",
   "duration_ms" : 181081,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.631,
   "energy" : 0.829,
   "key" : 11,
@@ -967,7 +1017,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/_begxgaLqWhg3kqeBxQyrNg3nCnzyA-1EU0je7rm08SUQbJXGYVeSU1eUZ0cuUpO8EvDbE7E6LIvX3fvs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869935&Signature=Ua33fYc8todkPAVc0hUEvEH4FKw%3D",
   "duration_ms" : 218293,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.528,
   "energy" : 0.929,
   "key" : 4,
@@ -986,7 +1037,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/GFGGTw46LnUUPktIqFw5iXgrP4ExZhTgVielpoJ9S8hYelXIUofOjOzyu8hq5ZIKr_Lf5vJlR6vU0kGhQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869935&Signature=SIU2ZAcD9WEfL/49QaH8VYw1Pyc%3D",
   "duration_ms" : 289227,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.884,
   "energy" : 0.765,
   "key" : 8,
@@ -1005,7 +1057,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/fMA6-wLmzqnbw-y_T09tpKBD0CWkRKGZrWtYQg8c4qfdfwUyRdvkza2CiiG24VcghOP2du5ieQs7CcdHw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869936&Signature=N5DUQwio7nzL%2BbT6z4loIHWoXEg%3D",
   "duration_ms" : 224573,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.422,
   "energy" : 0.318,
   "key" : 0,
@@ -1024,7 +1077,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/7vW9XAjCgtfGDjdfW63V3raRkONCr6MDo45Km3BZcBE-MRnzQc8mBR29LpMH7lSgd9pKx3n54alExP--Y=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869936&Signature=o2%2BnUjwqOnsKlAzqyCvNz8k3xDc%3D",
   "duration_ms" : 277707,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.640,
   "energy" : 0.501,
   "key" : 2,
@@ -1043,7 +1097,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/gQLe4APHy7NSI9VdhkCgzT5eQRbRfGE74YOdhQanq-axsifivsTEAwTTG6GlKLR9h8bijTfawLusTAXqM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869936&Signature=yKvE3SDKiv3VAyfUEw3qzPBqsOI%3D",
   "duration_ms" : 275040,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.663,
   "energy" : 0.491,
   "key" : 0,
@@ -1062,7 +1117,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/ic1m0gICUAnzmBWUuSedS1StF7i-4WDBQXuVPwCcCR27EIzmiKJzivhcVQlai1YpbgsBUaD6bmC5E2H7A=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869937&Signature=6DCiXFKsQNv6G4almOD4LwEg3us%3D",
   "duration_ms" : 281147,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.578,
   "energy" : 0.886,
   "key" : 11,
@@ -1081,7 +1137,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/iIaLBgIadZ4XEwlnM1-pk_ic-MpeCKiaQPFQVNGO8gKV_JVbOfp68VCieBv33A1jEKAxktAF7ZmnUjaMg=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869937&Signature=Prowi4d7ZatJ/HOTnpjYrJn88rM%3D",
   "duration_ms" : 180627,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.790,
   "energy" : 0.585,
   "key" : 8,
@@ -1100,7 +1157,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/mDZrsQLnfIdbhJVHWIQNYYjaAx7F4ByeaNkvGtpHq7mFQTBsEdL_qmL-GyOqzXcb5jmBHfCwEfawbIoeY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869938&Signature=MN0Xcmh73hddkl1xvqWiQhGbMVQ%3D",
   "duration_ms" : 226000,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.768,
   "energy" : 0.881,
   "key" : 9,
@@ -1119,7 +1177,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/R8z-qwPGOL7meR65LIAWq7C-rBawyciaqPRfymglqpHFB9Drhdqu7mDLRJPTG72bW1pRMw66X_wjrN3AQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869938&Signature=YTcnSyQz%2BCxXdO8kTKP3u96jMMY%3D",
   "duration_ms" : 201238,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.762,
   "energy" : 0.611,
   "key" : 9,
@@ -1138,7 +1197,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/EgXhrQpfYcBAnW-Xh6RWqQESuFde_OC-k7e1M0n2Nki_PUzc6Y1vgfBVabeECzSPHm9jknx4geSqUqWbI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869938&Signature=qxPRhmGkxU1%2BqdsFIpNSkGtwtPQ%3D",
   "duration_ms" : 206760,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.687,
   "energy" : 0.793,
   "key" : 5,
@@ -1157,7 +1217,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/yKGgpwBS_9BIYrt-UI0DaxLXdxbsITU6PCU9Yd6LBiJam36f4WKJqcnAksJISSIzXfEk_JKe3sT9STfHk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869939&Signature=6hu/HtLpZ3%2Bb3pbHNfiS/MZw%2B0A%3D",
   "duration_ms" : 206507,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.849,
   "energy" : 0.493,
   "key" : 2,
@@ -1176,7 +1237,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/m4YGOQcAbZThDsP3oFEumtQj6hPFs3n1i3vQ6yN0WpC2WNtExr5RrFrPeeq9Od4mmaox9sJ2lrqAvLVmo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869939&Signature=74ctMoysKLlz%2BzQjByNsJK33iaM%3D",
   "duration_ms" : 265680,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.699,
   "energy" : 0.543,
   "key" : 0,
@@ -1195,7 +1257,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/2xUwlAPZX0Oc0xtMhIteg7xQgE9ODawEDaujtcI2juXRwAKYaN6k1e2pDcv-Ojy0I4yxLSAYfsPHiS30U=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869940&Signature=otXGmHh4u29MhlSq3SCVfQ2aSlE%3D",
   "duration_ms" : 161907,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.932,
   "energy" : 0.819,
   "key" : 8,
@@ -1214,7 +1277,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/SwMcFwQbzEoCIwB4xQBFSFs5hQqenl4oSrw04TbeOwOtCWreSw57UnZFJHPuJI11ejs5mFOdKYCr4e1JU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869940&Signature=pMohq4%2B71ijaHzWCX1ALpMIsnWU%3D",
   "duration_ms" : 192773,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.381,
   "energy" : 0.594,
   "key" : 3,
@@ -1233,7 +1297,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/N80V1QIr65vn_xq49Rr8Z5j-U1nFCgQT3dGKkD-Fv5gZOXqiSBOQcgVSw9CWYxvUCH-7yVAXcxNuvKjK4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869940&Signature=kLgkHKuUJ%2BjGmZ2%2B%2Bdxe%2BU9yZSg%3D",
   "duration_ms" : 290907,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.637,
   "energy" : 0.669,
   "key" : 7,
@@ -1252,7 +1317,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/In2cIQGlhIkMAsktCJvwRMDvbeSG5n4ibc1_gturRAyDfXyNmqE3TjuIXVpb8QtRDoVo0eyY7LJDbzMkk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869941&Signature=4iX62jPUoFkNuGGZ2q48YuGylBw%3D",
   "duration_ms" : 205120,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.426,
   "energy" : 0.722,
   "key" : 5,
@@ -1271,7 +1337,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/qGUUfAW8UtyEoLnGQ5xNzmamZPf4uZ2aeRnY1Hn2ClU32Sg34mo9ymQsrxvMtMqM1Ej6PIt__rWGQqqrM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869941&Signature=UNAAv9ucTibaaxWGnTuCDnD756I%3D",
   "duration_ms" : 247267,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.676,
   "energy" : 0.560,
   "key" : 8,
@@ -1290,7 +1357,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/lEIOtQMbDXLybvJP3XE3UZEOueqpgYTESSJa2hsUDrzzOlO5qIVbNnq3dVjS0xQ-uEQZ0JTTud2XGxxpQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869942&Signature=giT6KrL%2BWaWlDdLW3RRl%2B4MNZw4%3D",
   "duration_ms" : 124520,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.489,
   "energy" : 0.389,
   "key" : 0,
@@ -1309,7 +1377,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/VXj6Pgn8sr3xKavPy3vFNWhv-idWVO8DZQLD737RNsipqv4HP0xXgwZRzW_k6Y_Tdo6YWau_Xtdi-IYJs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869942&Signature=nd0scmrl7/n5%2BY0lkOy3XABY9Hc%3D",
   "duration_ms" : 184734,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.570,
   "energy" : 0.642,
   "key" : 7,
@@ -1328,7 +1397,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/KEIaBAjpmT0mh18eD_bTdMMQlJhVhTgvxqBUt7rC-ucWxT8bZghFKTnF7AkVfMFQAOJki635p6aKDeph0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869942&Signature=9IRObbEpT6i/b5S0CObyYjmXxo0%3D",
   "duration_ms" : 199893,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.649,
   "energy" : 0.611,
   "key" : 1,
@@ -1347,7 +1417,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/6qqHGAglCvDj7waWTTZnK-sgUnO80gtChiapqjm8bW_4NDvLcLUKSRSn4dHA9ivHliyr51GB5Vtp2WSCc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869943&Signature=BVkEkAzTzzcXY%2Bat2yIyZYLiUI4%3D",
   "duration_ms" : 286853,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.686,
   "energy" : 0.766,
   "key" : 4,
@@ -1366,7 +1437,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/go2WyATlxJFxNiPc2k_WoqVbeF7WF6ne_t3sDJ3mz-YAhUTa61r-LV4Pp6Rogh4JDjeQxLpeJKJAZy_ZA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869943&Signature=QQCGXyvOJjhpTJr1xDDVUEqd9lg%3D",
   "duration_ms" : 212907,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.660,
   "energy" : 0.812,
   "key" : 10,
@@ -1385,7 +1457,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/DbwqVwQLRq34OxQeAyXDgqSAZSgvX8Kd4BDthPQBs7S0D9fzS7_xGrXU4cH6_FUZ_B8vXmPNk7fNEmAV4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869944&Signature=qy0J6fpbSL1WAth/SkfdChK%2Bjys%3D",
   "duration_ms" : 217884,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.643,
   "energy" : 0.624,
   "key" : 6,
@@ -1404,7 +1477,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/0o4wrAyuwbUCA-UW7XQ4BGl1CWJsSFawlndtcEiEAq_1vrkqDflYulmAsosqiWsZ0Xuth_kSFSbcLnXHQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869944&Signature=IbkyXcnjejieXSp8nGsYAtdRkp0%3D",
   "duration_ms" : 234240,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.492,
   "energy" : 0.698,
   "key" : 1,
@@ -1423,7 +1497,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/XdfzhwJIcaHS7A1zpYk8e8h3NPLkdBnLzxjyPbADu5rcrQI__nVSP41pRP7GwZCnWZw9K0UKmNjxxTxc8=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869944&Signature=vU%2BpvMp/wL/5tVhWNaYo1eQ4pyw%3D",
   "duration_ms" : 209707,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.696,
   "energy" : 0.650,
   "key" : 11,
@@ -1442,7 +1517,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/FkOL7gJcr4zPud2sIwJl78hY949wMeB6POo4VnCL1yE9vhDMvoM09e6zOlCH0jTs0uGh0n-TdHib8AHMo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869945&Signature=%2BsIQjl8uiD/Oh2uxFkzeElNdY3E%3D",
   "duration_ms" : 242267,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.443,
   "energy" : 0.831,
   "key" : 11,
@@ -1461,7 +1537,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Q1FyXAsk5bUe5FOCdMAS4gO3Pfn7PC3ExHQwK9b1C5RBhRDiw1GC11jgueHMF2-Cwa8EhijBX9M82blnU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869945&Signature=rsuwY9VmbUdlOYs17FQ%2BiVlNbyE%3D",
   "duration_ms" : 173960,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.720,
   "energy" : 0.748,
   "key" : 10,
@@ -1480,7 +1557,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/6w07WAq7FXerJls0xVWetC3CMe9df3dmxDL9MGdIHKoBV72fo0BnsxeysjjZAaE93FVj-P96JU5Qd_zwo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869946&Signature=EXH0chZFxgth5b1AmNOMjtap0Ks%3D",
   "duration_ms" : 247867,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.433,
   "energy" : 0.756,
   "key" : 6,
@@ -1499,7 +1577,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/vq1yBQGHlH34ptDMdxW-X9Uk_4RtiIHkD4YK0wbqQsx5WJ28oHBhMIBxwzmTB5UVZQEniHnus4WESSIqA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869946&Signature=NmCLemfSQb3tFMYcwn4xQarhTpM%3D",
   "duration_ms" : 356960,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.853,
   "energy" : 0.547,
   "key" : 1,
@@ -1518,7 +1597,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/sXX2tA8_4vapYH9C81Sw-Rh8Riq_zusf_Oe05INX5nUxKjTXfOZ4izq_AOiLzg4WKDW_gH1dQQAf5qpuc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869946&Signature=qT/cWA12CXxD%2B81wCk9CZe60hgE%3D",
   "duration_ms" : 205879,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.665,
   "energy" : 0.601,
   "key" : 7,
@@ -1537,7 +1617,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/6iq8TAKP5czeDP-NJGM1drZKTCLM4WHrfTWd-OmtzV7A6gzfSGTCkBvoOFKaWJxeZLnV4l6xOSbIJ2kAU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869947&Signature=5%2BQkpsiD2hF2LbWG/ETPurecDOg%3D",
   "duration_ms" : 151667,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.486,
   "energy" : 0.652,
   "key" : 11,
@@ -1556,7 +1637,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/69RUtQ2toTG4-n4UvvJpqKtWUiGrKHlgqWAfIAWia_iISb_W0qI-P2jZ_aZiURKlf_F0j-w8aTfgFuq2k=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869947&Signature=PA4zHC4O94B5mpMMtsWOM9lL9C0%3D",
   "duration_ms" : 273684,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.557,
   "energy" : 0.422,
   "key" : 0,
@@ -1575,7 +1657,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/kK2F3w1gQ0_YWQmWngc-U2ibtttwVqsRB5b_27JDPSWXVJXDzWWNnsuZ3XeZDFsWz4qkfBN3iS4klbZIE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869948&Signature=dKvFBZVNUHMAPRrmaz6RtMwICeU%3D",
   "duration_ms" : 209288,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.711,
   "energy" : 0.292,
   "key" : 4,
@@ -1594,7 +1677,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/s4RZ1AlQVqPKeCeTLHCtTHJFVNlMjIP4mTmx_y7_GF08E86Xi4KHZr8ub3yjN4vIj-jfC8D2N6iORHihs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869948&Signature=gxZSE1NnUDW8zOpVeocYPUbn3gk%3D",
   "duration_ms" : 296800,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.585,
   "energy" : 0.655,
   "key" : 5,
@@ -1613,7 +1697,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/6N5IRwfG8l1QEUTMsM8lvDdpITYl4qpgYNN9g3vgwYF0Do1DNsQIy6reATi6g73WH6NbYPfWn9vnSJhPY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869949&Signature=SHRouQsV1M2x7oB80f1nVwncmaA%3D",
   "duration_ms" : 179347,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.600,
   "energy" : 0.670,
   "key" : 5,
@@ -1632,7 +1717,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/YP2bNgTw206Bbqhs5TT5st7hhK7rXSh8_lhDHCAKIlLkAndQrQPV8DbX7natOgmKeVOOnyuSxW-pphong=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869949&Signature=ukmtCdadBk%2BMiFNms7vryRaE7pk%3D",
   "duration_ms" : 221560,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.887,
   "energy" : 0.493,
   "key" : 4,
@@ -1651,7 +1737,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/fKIuYA8Y3UriFkY0xi8AjbEZUoF5jxaq8vdm31c28nH5SnKARS_8lDIS1VrDvz0D3PwEinTfq6Ar4h47E=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869949&Signature=25FhNr%2BJcrDmGMjkp9Mo/Vv/X2M%3D",
   "duration_ms" : 211643,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.724,
   "energy" : 0.691,
   "key" : 6,
@@ -1670,7 +1757,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/fwy2PAqM-PXLsCmWVRaJTDKo6nqLIQ8xfR_tTgjhZCcBaoHcHhfBV0VNe5FQiVIOFU77XIk7P7vAgrhA8=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869950&Signature=7J%2BeQx5F%2BxxSpyLPDuhHdK7YMKE%3D",
   "duration_ms" : 217984,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.795,
   "energy" : 0.482,
   "key" : 11,
@@ -1689,7 +1777,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/72bM8gWS1b6IJksMmfJgD-Atm2D4IUzAKzio74__2HqoXaZ0uKtxO1MM69_hQ6zkVaeKCZhcELfxOp-JM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869950&Signature=otPX8fnPfMDHOw4snBlrrWdtRj0%3D",
   "duration_ms" : 209453,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.366,
   "energy" : 0.552,
   "key" : 6,
@@ -1708,7 +1797,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/L2-Migbqej5e8KUKpKc60hvUqIidfJ77bLQll2PIhmxQZIMAcLBihGpkAAwYvPpZQNfuBGJ1peNE7OYdQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869951&Signature=Bb8nqLhKBwDQgueIK/ssipeC4o8%3D",
   "duration_ms" : 597933,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.842,
   "energy" : 0.471,
   "key" : 1,
@@ -1727,7 +1817,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/hGMz7weYOjxDenj-AgixdDJriF8Qd7Ayqg0Xe_FY2e2MjM2MQu2as6i-slxPmn4ioK-ZWrVcNWbDkUVZ0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869951&Signature=CeLxex4mOwtmxkG80lwuuVlGbdk%3D",
   "duration_ms" : 202085,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.387,
   "energy" : 0.861,
   "key" : 4,
@@ -1746,7 +1837,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/SmeSrAY6aNnEO8eGsVHBzK4ZaK4eMWnNOXhjkoIi_B93B52RvXdIxAgcDXQ7zDLtk_wdC0aP35r2lBSMk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869951&Signature=epLgXuC8qm%2Bpq4YNVVwNyMJPlRw%3D",
   "duration_ms" : 225413,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.779,
   "energy" : 0.455,
   "key" : 1,
@@ -1765,7 +1857,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/iBqiZwxKl3dK1_Ij3LJCVlq5Je6l3B-0ZaWzc7MSSb77CeqHeb9JqmkX-Ls2yFkEPmAplCrNXil-MwtiE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869952&Signature=JdT3t1uCikQRtdcfeIZdfAmAqC4%3D",
   "duration_ms" : 153429,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.664,
   "energy" : 0.790,
   "key" : 5,
@@ -1784,7 +1877,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Sg_IMQmpKlbp1LGioAlhB9k81kviTXYNmSAi6fXhcKAT7Mi8q4amQN1DYdL3aV9wLCtJAvaKeWuPmg7B0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869952&Signature=ABF/i8zZ9MnC%2BaCgqCGH8S2rda8%3D",
   "duration_ms" : 212613,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.704,
   "energy" : 0.604,
   "key" : 1,
@@ -1803,7 +1897,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/ODloIQ_ZIPpg1za_BsodUwGf5J1sptCKDQl2jDsyljcEZpWmcI_c5UoCRBDNNAl_a23sIJKfaYYGp9P68=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869953&Signature=CGtn7/SuZBUdOSgxk6NMNvGN3sI%3D",
   "duration_ms" : 196853,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.622,
   "energy" : 0.827,
   "key" : 7,
@@ -1822,7 +1917,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/MybkIwvhNmna91nwl8VVBDff2juD7vMzqsCUvuVxlKrO4ZJ6JLBrD-b-jp8Uq4UwjrMtpbn3qOTnlJmX4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869953&Signature=THnhlcpbuN/w%2BAr3uC1oFMubV4c%3D",
   "duration_ms" : 233813,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.688,
   "energy" : 0.325,
   "key" : 5,
@@ -1841,7 +1937,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/gUQXgQifznqyK1fdUtaOf3xKIwlNhg_cBIw8xeU5tooSONSSyOy7MrT7wFHPyyoMFiDz64BPlnVGXQJww=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869953&Signature=NmfzTa1BBl15%2B%2BjkMrFvO7d5iLk%3D",
   "duration_ms" : 191600,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.784,
   "energy" : 0.882,
   "key" : 5,
@@ -1860,7 +1957,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/8eiBng6ONK6kb0o0K0KdDHGCaCjYhqOIF6JgwSKIo4WPiEkaYGOtRIT4TiLl6KbUJGfjMDwsBIYsiHorA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869954&Signature=5YPhlEykfu2auFwInl5UwQrNqqI%3D",
   "duration_ms" : 189870,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.733,
   "energy" : 0.575,
   "key" : 0,
@@ -1879,7 +1977,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/hYCnzQlAHXuCtLvPhmQKyAfWrH-h5L8JIIBkFAkm55rO8DP3BSuXkNbTlANekRdIEd6vJGkwn0n_xWRrk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869954&Signature=zThUOsHxuxLbZJKCnG1nP7PgutA%3D",
   "duration_ms" : 232720,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.429,
   "energy" : 0.865,
   "key" : 9,
@@ -1898,7 +1997,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/rYcYJQy-CtvDOxhluYRgKr0j_Ve_eayQer01Yc40MqIAFCNp4lrpxxGvwvZiNYDFR_4myEtTM-PJgMbbM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869955&Signature=bU/G8Rwfc5VhNQK6/hpICoUucEQ%3D",
   "duration_ms" : 297347,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.574,
   "energy" : 0.803,
   "key" : 0,
@@ -1917,7 +2017,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/PgyvKgN9frubQDRQ9ofRSfnzew53DZdK-Fw6xUWVgXTxqHMRYfrEkz2ksYBa6gw7B5b5X2vhoxXgm6nvY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869955&Signature=68PCUwjHwukUHsQrYLVsv9HH1IQ%3D",
   "duration_ms" : 206533,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.722,
   "energy" : 0.331,
   "key" : 8,
@@ -1936,7 +2037,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/oHWbegixS8Q75URXZjRLkKW0iWLb_Z_Dtydm8EPFFWYfN2wA1G9DiXBSK7w4Rh5G58ijcjx95slfFw_jg=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869955&Signature=mUJOwUFgv0in8s0ayIoC98lTxCg%3D",
   "duration_ms" : 313547,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.628,
   "energy" : 0.767,
   "key" : 7,
@@ -1955,7 +2057,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/XG9d2gwNux10CQ662UCGAP-iUHHpjt_s4_JfiRi_ijbqsBjSONdQFNjk3nvzUtt2DLsyBahm7skEBIHYs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869956&Signature=45d95mA/8Y59q1ZV2LUATrDJvks%3D",
   "duration_ms" : 304500,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.523,
   "energy" : 0.757,
   "key" : 6,
@@ -1974,7 +2077,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/voMPDQoJOkEMXuyFgvCnGTb5AY3ku1-eGlHFa45-yTvzLu7fSsQpjPECKsTv0LcIyXBGGlCFcLqg7exlc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869956&Signature=4VFc/kyE2OEN94czXfgqLsVDtgQ%3D",
   "duration_ms" : 273253,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.383,
   "energy" : 0.842,
   "key" : 0,
@@ -1993,7 +2097,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/UeDHWgAP5VyzW0M3geGhzwd8geeQoEDIRFYPW9b3rb6g5sSdTZGhpcl3XnP4qVQmLBfuRB3WI6L6Nlo6Q=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869957&Signature=/z7nfmBbnaYWeM8twxYUFwmXNA0%3D",
   "duration_ms" : 223880,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.574,
   "energy" : 0.610,
   "key" : 2,
@@ -2012,7 +2117,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/dblpkAPOh470fwH34tPeLPtbvMREE86Fwev2PqHkn8-irtFjWQufyixz5O8X5ib8_6oIKBgHjxTpaVp2I=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869957&Signature=Zdz95wVoDsh3vtG3dPsYbeMzkO8%3D",
   "duration_ms" : 181067,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.728,
   "energy" : 0.563,
   "key" : 1,
@@ -2031,7 +2137,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Ezq59AuzIFSML2HyGxtJPBs-OUPm_v2KPFXE4i1iykxY8EX7_-wC2NNVijOshFOVdszwyn15VEuN-CxOE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869957&Signature=ja1hD7W0Su9jtJiQQglFaKh12K4%3D",
   "duration_ms" : 217707,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.695,
   "energy" : 0.869,
   "key" : 8,
@@ -2050,7 +2157,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/RIn3Tg2m3M5rIwgs17bhp2YFJZSJkkJfxl707iu5Nz3Q0SNYwXz4sTmDIdZ0k_c46YSK3EEEEOHU1PFdA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869958&Signature=qLpOP3OqHhsAFPUdvZftiKccVGI%3D",
   "duration_ms" : 234507,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.650,
   "energy" : 0.745,
   "key" : 4,
@@ -2069,7 +2177,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/zFcGnQm-PF4rfCP0IvJoZDrTgGkNJ9eCZRZdJ6_6F5QrMBn5mEzYF8J7RDYhPbusy4G8YMSykxm0D8nh0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869958&Signature=jN8TbFwXyjEHLijCZtcpIvYJ2fo%3D",
   "duration_ms" : 195840,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.835,
   "energy" : 0.304,
   "key" : 11,
@@ -2088,7 +2197,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/9l01hArmP_1aYLZIOAgUA8erWnkKQZ7GWVWwTITWYcNzJTKA8uJ3raqWMv8NGU6nXNSY8w7qrxTFDdgOY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869959&Signature=zHXPQtOhkG2SxQ9rxmuzYeCAvss%3D",
   "duration_ms" : 412131,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.741,
   "energy" : 0.540,
   "key" : 6,
@@ -2107,7 +2217,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/fD7ykQ3BdV9Ik0dOVj4hnhwoiHQwq2nbhMC3Gv_DjZcrJkz7FQqQMOiq0k5HqaoaWDV6okuyR0iQ_BPEs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869959&Signature=5dfFwkD7xTHhyKLzp0heZcr6Ozs%3D",
   "duration_ms" : 239453,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.592,
   "energy" : 0.619,
   "key" : 2,
@@ -2126,7 +2237,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/ZOFLYQuPk8lP5hT4gIbXjqlMK6Hz4HOcXl50MHNGDMpdlFJuamF-9A81VUZaTtZlknQiLc0auo-Nq4R1w=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869959&Signature=z/BzghSi0MIgzhCbcE%2Bj1NleoBU%3D",
   "duration_ms" : 212520,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.651,
   "energy" : 0.932,
   "key" : 0,
@@ -2145,7 +2257,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/xFLePA6u_-35iKKcfM7I4PFlUOd9uNcsXkslrP7lZhgT4vBiNADZBYj9cTQ3tkIWeJZxrjttV67-x8Oyw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869960&Signature=LEKutaDWSJ9opa8edzimqaAwL2w%3D",
   "duration_ms" : 219243,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.787,
   "energy" : 0.338,
   "key" : 0,
@@ -2164,7 +2277,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/1szGqg70rt6KpexEgxIYI7Mhf58e8FuC-wAFRSfgxqFcvfU1Y0WcIgp2p6a4ijXt0xPLLXqLfM9uE3Po0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869960&Signature=14Ywkbl%2Bg/PaMSfCs0%2BiHeFNA6Y%3D",
   "duration_ms" : 220862,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.769,
   "energy" : 0.632,
   "key" : 10,
@@ -2183,7 +2297,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/UWQTTgv5rGZF8T5QNzp6Mi8cP3y6B1cRg5fxZhqo9TdA_CqBq3XE9LKIZzcvQ0dKrasv8kRdxqExDijWI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869960&Signature=7rnvrqjtCi1fkiB5H%2B73dPBFfzA%3D",
   "duration_ms" : 176387,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.291,
   "energy" : 0.790,
   "key" : 11,
@@ -2202,7 +2317,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/_blbLwb0_tleAeYiuWBOCnDuRZiE1UnWJ7y2kuKeUTb8H2A49BdGceNeEE0-vOBPISRmfYBN7pcVToh9k=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869961&Signature=J5y/R0/aDgUx2aiV3JoklrFK7WM%3D",
   "duration_ms" : 289907,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.448,
   "energy" : 0.782,
   "key" : 9,
@@ -2221,7 +2337,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/7nw79Q8dyv-1rg6CZe2lJuSor14JEMpU1q1eVoN335qHk8SHym5MZf4qc289QPPZYhnDss7LZ64_5sDbw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869961&Signature=zh/eXr0pqB/SZXUmv9Es7PJhltw%3D",
   "duration_ms" : 210704,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.441,
   "energy" : 0.112,
   "key" : 1,
@@ -2240,7 +2357,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/38nTVg1sx3PoDkSx_m8sOZ7NeQo_UcyTTpRa8ee2350D7IWQdG-pS_lThcK_oAZpWM2ORyPE3QW0ssNjw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869962&Signature=m3x5h6dBne9QfM/2iNhIENxyG04%3D",
   "duration_ms" : 281867,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.609,
   "energy" : 0.813,
   "key" : 0,
@@ -2259,7 +2377,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/wspxggBod4DD4wu8UEG3ZD3hfgIVjUpht06lxlOxzzQzTpymL9ZB4jiLBARRCNydUl5DvgVH-tvWuTtqY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869962&Signature=b%2Bo2zYohOebZaO4Q6MO3twwH50g%3D",
   "duration_ms" : 209280,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.773,
   "energy" : 0.595,
   "key" : 8,
@@ -2278,7 +2397,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/nFIwcgj6XmGRXhIFfyWbrD3LVUmdcmu84d8lxcQFlNAK4cddJOjMT6XeDkmfRqVMUYKT6YrTil50zgQe4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869963&Signature=FdaOIi9yUIdpWTZQgE4cerKN7%2Bg%3D",
   "duration_ms" : 461840,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.714,
   "energy" : 0.809,
   "key" : 5,
@@ -2297,7 +2417,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/QFOIrwbGxDrBVA5en8f1wdELaCDY1GqzhwhVyG1TzQrxUpNH6Rn0Mqeh5VZ9-VbeeQla3KHevEZA9FhtA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869963&Signature=G6PGv/mJQn5q3Btpyqsy3rYrgbM%3D",
   "duration_ms" : 220920,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.864,
   "energy" : 0.551,
   "key" : 3,
@@ -2316,7 +2437,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/qk89IgOZ5Nasru7bpw3SwTulWTDJzCJZ_W6vvxm6RZBd8duBjoCF1S1KBHviMNPOpvlk5V56ROkqToMgA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869963&Signature=EulYhOGGR0FvvZpl1PUW8%2BRdDWc%3D",
   "duration_ms" : 238534,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.638,
   "energy" : 0.733,
   "key" : 4,
@@ -2335,7 +2457,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/j2fYGQ_xqM0GMDd-H_nLmMf1eiG9afuDa5aba-SaXhPIdY9UV5uJkO1PGF32o8pZ42MMXTS39J5Jr76IU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869964&Signature=NB%2ByGUndsv4mgYDhIt3VIk177jk%3D",
   "duration_ms" : 183947,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.324,
   "energy" : 0.551,
   "key" : 9,
@@ -2354,7 +2477,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/eNMX8g2ict219EPfN42KuW3MarxIkrL5EHEp83jncB9qSWVr_WYIikViAjS-gUf4wy-h5Hq2zjyMC4zuY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869964&Signature=Jkbfr9kc9OlHFM16w5b%2Ba0XIWv8%3D",
   "duration_ms" : 269720,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.481,
   "energy" : 0.752,
   "key" : 6,
@@ -2373,7 +2497,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/UNeNGgNra3eS2dty5rOrlKOScjRTwWbGZKCUOmM4PC3aiCZTrvc-Kcx5JTFR6TRM9Zp7XeoTGDBR9Xsuo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869965&Signature=p5ysbiod0Wy%2BxQ3W30/T3BeSyg4%3D",
   "duration_ms" : 251573,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.521,
   "energy" : 0.625,
   "key" : 1,
@@ -2392,7 +2517,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/oz_t4AwAkehSDmsuSi9V19GcnioulwcVaWMeOvU4dv_zCUXof4-4TzAa8tbWTu_NVXLvgQktCIG8y5B_A=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869965&Signature=dr5QDkMg3J/%2Bng2AC9lVUS3o4Hc%3D",
   "duration_ms" : 334067,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.630,
   "energy" : 0.530,
   "key" : 0,
@@ -2411,7 +2537,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/_JtBSgaY42m7L8ZIZ0GefOaBm8D41bHv3ipcKozBwbgFSaTxlBChqv6UKYdpDApUKZ89ir04H181sxF0w=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869965&Signature=RxN7Q/TALScA%2BJurBF52s8Im%2Btc%3D",
   "duration_ms" : 225053,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.540,
   "energy" : 0.766,
   "key" : 1,
@@ -2430,7 +2557,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/PE03hgGoumQOoTFZ5j9wQUheVoJ9NLf2sYc0dHGWcxgqXsLRc8L82CIUEXxyNkjUwXkYe82ppNApjrvfM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869966&Signature=R8TlEbVNstZWMmk5948JQq6eus4%3D",
   "duration_ms" : 209920,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.577,
   "energy" : 0.914,
   "key" : 6,
@@ -2449,7 +2577,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/khmD6AkqrDjY0CwzON_sN-q3ssqtA-I7tR641Nt4zxi8gmQVebtb7U1Xc1XPepyH5x_Qb-YpFlv1fwNwk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869966&Signature=XpfC5Ilp5X%2BYDSoADGKRJM4nhcU%3D",
   "duration_ms" : 208253,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.710,
   "energy" : 0.431,
   "key" : 0,
@@ -2468,7 +2597,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/b8asWgydOqyPVtqh2m4Sn8PxIjTflvV-FGq2o9GwJRXFSwHoLvYz57ClYypQrH1hwPB38fRo2LOxm91PY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869967&Signature=0rRYpzCWBpI0cmRzS6iTcSZJbn0%3D",
   "duration_ms" : 229333,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.216,
   "energy" : 0.493,
   "key" : 6,
@@ -2487,7 +2617,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/IdViMAJ_spip6GCfwu_dnJdWwQOqFxYKh7Gc3Hifhguoxtx1Y8ehU7_P80ODlIRjK2CUbfdot2SzRq59w=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869967&Signature=I0lz3v1A9zNz4kUNPtvHqOiyi5c%3D",
   "duration_ms" : 190440,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.610,
   "energy" : 0.876,
   "key" : 0,
@@ -2506,7 +2637,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/UPKxZw42FchMlR4BESM55_wKz7j8fmr8w9Mq8ZXqQ1wHkpeV-OwrHGIlI0yl_sKN9PbKqcDzpgABbKoPY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869967&Signature=IbaRacMPMQq1lH2pv/rVQPCI4Lg%3D",
   "duration_ms" : 180347,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.776,
   "energy" : 0.624,
   "key" : 1,
@@ -2525,7 +2657,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/zlTVtAS-De_6EaM8b-FV6W0_RNn5AvJox8178HqVi1grO3gg0iwY8IGotWhjB76aOrJg2TpkChIevQHQk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869968&Signature=PiYPjLlOki5t7PDdP9a%2B5kbXm6s%3D",
   "duration_ms" : 173975,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.688,
   "energy" : 0.878,
   "key" : 7,
@@ -2544,7 +2677,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/67f9PQMS-epokUWaSzsQDrImreQ1F_lTDEgOoLp2atR2IgPiafZdrGMkJ-7G-hGsnZeBbSv8LozrM1Wsk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869968&Signature=8z2eD3iPoCSliQ9vy5iV6SEc8mE%3D",
   "duration_ms" : 136013,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.790,
   "energy" : 0.676,
   "key" : 8,
@@ -2563,7 +2697,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/UPQu8Q1ERzlFhFxrzGZFEHXPqtydbnkCVLy_hBUGZbU-T-5xYrlznAny8y7gtEAZTsRvr4CwxC5HJoEYs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869969&Signature=vd24es2G6RGj1kzDFvE/glUY4/8%3D",
   "duration_ms" : 217707,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.556,
   "energy" : 0.873,
   "key" : 1,
@@ -2582,7 +2717,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/60LofwnFW8Z3R2yzSkoIfJaJ0cqdOvGxtB0N6agHhj6Gl7Km_1bciwqGb4sD_3o83bAd57wJI4ULrTGoc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869969&Signature=FdPyub202jfml86SPzkZi0QqVdk%3D",
   "duration_ms" : 190640,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.402,
   "energy" : 0.794,
   "key" : 11,
@@ -2601,7 +2737,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/DnaBJg-Jsl_gM4Yct819HCf8pBEfDZNsmezCEq9RYK1P0iC5zDRLdkMSjcp5JeEXZpgWPh4hIa89ELIVE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869969&Signature=2cHzXSYiuEsYov6CEAda/34OANc%3D",
   "duration_ms" : 206920,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.692,
   "energy" : 0.319,
   "key" : 10,
@@ -2620,7 +2757,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/qTHu0A1zNopzXPdvi3gsp66i0HeD3xqptGd-NJIQ4UlB3U_t_Rlox9-HBBdQK5Z03rGKCpolS7VV6z7Qc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869970&Signature=2NAWwcgTf14QGQtGJDdTGVgbkMg%3D",
   "duration_ms" : 281426,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.670,
   "energy" : 0.827,
   "key" : 4,
@@ -2639,7 +2777,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/0UcubAQi6HjMwo9_lHMHMnwd0Ls2Q_fAHgpYShLFOK8kWjUDeJ0At01B5_m_LUYVCqAiT5WuAEvzsNF60=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869970&Signature=zDdaZKsjOth0ylYLC0Cc%2B6316oM%3D",
   "duration_ms" : 163627,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.509,
   "energy" : 0.891,
   "key" : 2,
@@ -2658,7 +2797,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/r6jFLAwJ5wkFjF-5OUQb-iCWTtU8CmCK1msG2rBYYucq7LgkZAdrJgKHml1P77JkHdRAAygQ-tpFTs2gI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869971&Signature=tUTP7RoFnOXujTweEEhViQMnIsU%3D",
   "duration_ms" : 191213,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.543,
   "energy" : 0.407,
   "key" : 0,
@@ -2677,7 +2817,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/LEuNcAn3HiddopS1zv_L7FwC2vsHJ5i0sycZ0FNagtANpVczhVwikUwX4SkwYIlH5Axt8F8385h5JiYrw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869971&Signature=uLLTh1ehhmYz5mRYR8LGUev64jY%3D",
   "duration_ms" : 274960,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.615,
   "energy" : 0.336,
   "key" : 5,
@@ -2696,7 +2837,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/IER0mQogcQYcC1_YCW_j_A1UkT0hCtQPfZrfoPGxG92wlryZ6dxfgdUnIV7q_ERYGN_p8SsM8LhTmt8GE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869971&Signature=KMVhucKB2%2BL3FStaMim%2BLIAke40%3D",
   "duration_ms" : 230481,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.799,
   "energy" : 0.590,
   "key" : 6,
@@ -2715,7 +2857,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/DDzaZA1LAhNfG4Az86WnkWu0VeJk1BoCXZ9F5egVsxlyccVnqLF0THIRBnv5nkpdatNel8oJZHMQgrRMQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869972&Signature=dzZfANBKqmruOBwlx8q9YnmLGF8%3D",
   "duration_ms" : 182987,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.540,
   "energy" : 0.590,
   "key" : 0,
@@ -2734,7 +2877,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Vk_aUwJuLx_IQol7gdFteloZ-pOCs0hxnZsb1jR0OnA_AZifsE4eURtdpLzsx_5NG6-n5Q9a-LRiiUC_U=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869972&Signature=015vCW1wTjf8Q8tFr%2BF3aPVHjEg%3D",
   "duration_ms" : 234910,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.751,
   "energy" : 0.768,
   "key" : 1,
@@ -2753,7 +2897,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/XljxXgN7XExA8IUXyw58YyXMD1X0LHFc7gDbLSLNL8p3Do2tu0OWfMyRklPubcfJoa8sb0ZOR3yOENMWI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869973&Signature=%2B0OzKC840GCtbeFmh4VccT5wZ8Y%3D",
   "duration_ms" : 235493,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.723,
   "energy" : 0.809,
   "key" : 7,
@@ -2772,7 +2917,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/8_KrJwGDxaL7ueM5ZD0MdEp3yY1Dfh6i4CQtJZhZU81p3uB-FqNZ46N2Gg9VDITiyO4R-X6DHbhi72_b4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869973&Signature=1CvXhtDsg5V2euzhGNIUqxVkPZE%3D",
   "duration_ms" : 176561,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.757,
   "energy" : 0.678,
   "key" : 8,
@@ -2791,7 +2937,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/uwjKAQR6kfhjEhWqjEK8V8pgHs5poLgt5oLWhSzCg2wL1xxW4wY7dbamVxoP9Jp8K0D_nL05OPQjuDlnE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869974&Signature=ASq5TZg6KyU3NeO7X%2B2t8Oj3Lwg%3D",
   "duration_ms" : 218235,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.803,
   "energy" : 0.464,
   "key" : 1,
@@ -2810,7 +2957,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/BjyblAXuc4-8dGokuuM3CXZHn4dLTrco_6ehasd0-ozxMUDElEyc95Fe72QZKL3NrihCs7bpoi4NovTDU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869974&Signature=T6XV6SlGtJbydOvm0x2qhPVtR/0%3D",
   "duration_ms" : 177293,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.653,
   "energy" : 0.734,
   "key" : 11,
@@ -2829,7 +2977,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/SLgDVggeMUugEACp5fmuD-JCQ8t58SuPiXiyO8x3yK6T-0WRpeX3y_UVuJjEkU_DFK7kHBBvHN6CK71WE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869974&Signature=8L4DAhbPm4LJaTnuk/w12leDDKY%3D",
   "duration_ms" : 130293,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.762,
   "energy" : 0.459,
   "key" : 2,
@@ -2848,7 +2997,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/xQQhsAp92wfhp_rKc2KW_O8YLOdKne7WRFkUW0xAkmJT8cU7Ik_hxqczSpnQ0F-8mtKp-RzgXcNUbqvt0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869975&Signature=ojiuSjOsrJXWesp3V882RedWmww%3D",
   "duration_ms" : 260695,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.858,
   "energy" : 0.697,
   "key" : 2,
@@ -2867,7 +3017,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/7bRZCAD4Ue808xV-xr4PRSoPI4jx-WflxKlTjDlvv4LbG8BW-pgOz179Ty4UAqYFJpBnTvhGoFSD-fywo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869975&Signature=cuCt2iyOMp/0t5QtKLaRcb6eiVY%3D",
   "duration_ms" : 290836,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.497,
   "energy" : 0.963,
   "key" : 8,
@@ -2886,7 +3037,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/7zrirgOIcU1Oxd0cjhHXD2szP-Wp_76sQajVoqgwSoS7WDRa3A0fkLjlOILRMPhcq571YHwpTh4oWMti4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869976&Signature=i6/moQcU50vUM7tG7Kmf8yBl6/8%3D",
   "duration_ms" : 190800,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.714,
   "energy" : 0.559,
   "key" : 8,
@@ -2905,7 +3057,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/ifYrBgxyIzruKELm35qNojr6gD9_BQn5gH8Gvcb_6YQs1OZihPCFIgQd-0VmThb-j3DdfV0cTnhITUwVI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869976&Signature=5fpz8dd6VDNEJIzDl5VZ3C%2BUApU%3D",
   "duration_ms" : 207746,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.696,
   "energy" : 0.801,
   "key" : 5,
@@ -2924,7 +3077,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/J6HBiAl3PPw0t1O7NldVBGoPVjWDVO8dhxMyQECjX0NRRVAoqZFdowqXHjkj_nKR-Wdy-LBbAuIz1yMaQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869976&Signature=IRE9SRlrl2QkEEkOsPWFEpneYA8%3D",
   "duration_ms" : 211909,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.738,
   "energy" : 0.610,
   "key" : 10,
@@ -2943,7 +3097,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Pb9_IAr4w9OyqLg36CEf7wRFqTOI5HKKnySmBA4czaQHuhZzEtHXlzGGD5y-dDM_cqKtAXNDmzvhkSpUk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869977&Signature=3iXTYmJoKOpwHKCTNRXnJeJOtVA%3D",
   "duration_ms" : 228853,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.635,
   "energy" : 0.721,
   "key" : 10,
@@ -2962,7 +3117,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/W7-BeQJFMWfvkt3x5ung52M5tgYINKByOdhHoS0mvNjFmTble0y69Upr6VJ_nFg_Bp598wmRGSg2dDwpQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869977&Signature=7gYWSJp5cTgBPT3NVUZopHQyTiI%3D",
   "duration_ms" : 200253,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.673,
   "energy" : 0.428,
   "key" : 9,
@@ -2981,7 +3137,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/YM1P9Ajz3lEiJRfyD5Pp-zwanDk7EXUmlLydjW4mmX7H8WdSYxHuMD1yJeCmcAkFVdgWjW312VmlyW_Hs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869978&Signature=e786Sc0GVdJ%2BIJw/%2B6gkBNfSrmw%3D",
   "duration_ms" : 236120,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.779,
   "energy" : 0.886,
   "key" : 4,
@@ -3000,7 +3157,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/RKOpuQIXv5N6k6xc93L8BK1FVl_2vraZzrEi-sSqQzp6Dfxlux7F3rPcytyyNxIxTmfBjPbFBI2AQXi-A=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869978&Signature=oA0gzIMUZxR6Sc59IrdO3Akycs4%3D",
   "duration_ms" : 296133,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.432,
   "energy" : 0.781,
   "key" : 4,
@@ -3019,7 +3177,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/GvtA3QSV7lBrhYtRztG1cawZJNc6DYp5onCpzE76oUPlr4Jh4zJ5sIJPD7rbIf3liQU5Wi12-39EHanoo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869978&Signature=NVWjFwqDP7gtcDt1yqAE9nahWl4%3D",
   "duration_ms" : 250286,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.663,
   "energy" : 0.830,
   "key" : 1,
@@ -3038,7 +3197,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/HT7Lcgru59f-Z5xlg8_yS3Srl_xj6y9nIx2US33bdFtA9fMCXnipPL0hXY31s65JcXKyOkG0WcjiQi9x0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869979&Signature=tpOvQA8s5TugZa/6BGXu/BMN2MY%3D",
   "duration_ms" : 149973,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.590,
   "energy" : 0.808,
   "key" : 1,
@@ -3057,7 +3217,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/TqVePAlcoQ7ftyy1_hzyLCn23JRocSiNm7Ts_kZhoRf2ZYTc3A8wflQe74NmfB5pg5SMn5YhKhi1Qy00o=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869979&Signature=59NyWY%2BWya5/5PbcZIiD7J8bPJo%3D",
   "duration_ms" : 257747,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.622,
   "energy" : 0.701,
   "key" : 8,
@@ -3076,12 +3237,14 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/-6sLQA-O8t30BkEXWUWsRWDGZU4AhgdbylPgFFycxJlPnzxKCy5xvXBugKYDcEBhJV-_QWHinwR5ab3ow=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869980&Signature=D/KCu4R%2BmEaGLRXSO1acNtG2OgI%3D",
   "duration_ms" : 207013,
   "time_signature" : 4
-}{
+},
+{
   "error" : {
     "status" : 404,
     "message" : "analysis not found"
   }
-}{
+},
+{
   "danceability" : 0.816,
   "energy" : 0.535,
   "key" : 9,
@@ -3100,7 +3263,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/BO86OgRPhu0h_ps7E2F0mGtX-8JBTjS2dqitxLD5YU7Yfa_cRsTBeVEBFWvkm4BVFsjVjTW8gm8HQUIjE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869980&Signature=zK8z4Y%2B0WwdOWzNWAxFfvFC0f%2Bw%3D",
   "duration_ms" : 241267,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.592,
   "energy" : 0.455,
   "key" : 1,
@@ -3119,7 +3283,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Q_hpCwyyy5RiAsOJHUAcIdWIJ5W-CT-kHln_WmX8-oZTq_QknFU49KSH2OKWbhZfU_PQuTFiNuDtv4tt0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869981&Signature=wqL2Mb5cL3CKBa9b6zCKpbMS1hk%3D",
   "duration_ms" : 202451,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.912,
   "energy" : 0.644,
   "key" : 11,
@@ -3138,7 +3303,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/elT_sgdDYWP-zxf4YOvuabgv7xlwJz-1KxC8kWrH_IGNH8pvGPrn2OL_Cbmf3_g0hvldTxOsJz4yKT5To=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869981&Signature=kj81eBWhCcMt9v3Rq9T2CBvQedE%3D",
   "duration_ms" : 225040,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.643,
   "energy" : 0.344,
   "key" : 2,
@@ -3157,7 +3323,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/KT8QNgrW5xjEO-fPkJKFvZDC001EW8Ud51ZbJoHbkHd-YuPh0vw2FTm5YQXpoBHXBOsC4f1wn1L9Y0MIo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869982&Signature=0UctrkdJW%2Bf4pW%2B%2BzB3ftUfKu38%3D",
   "duration_ms" : 168046,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.480,
   "energy" : 0.973,
   "key" : 10,
@@ -3176,7 +3343,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/GqeN4gixAJUTBBxgji5kWLC1rhh1gdZIDGrL7hzAEYOEj2ynzPyvPS1itqFhRGPiUWbwoMlaAcSBOM-5g=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869982&Signature=3wGdeGGaVix/qDPu6zP%2B4E/lI3k%3D",
   "duration_ms" : 225311,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.738,
   "energy" : 0.868,
   "key" : 11,
@@ -3195,7 +3363,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/tQf18g3YkkOS2oOagq_BzQF1GCBSEVWBi2zfQXBwiElhUj0tng_NH-Wgry_hu4vdbtM5ShSoB18FmG9y4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869982&Signature=6qmjvhwBrhnmZHsS971TZEZhaAU%3D",
   "duration_ms" : 212640,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.489,
   "energy" : 0.593,
   "key" : 7,
@@ -3214,7 +3383,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/bK5SEQlH4yRoMUcNXSGi5ZxZzfop30HcjJR1iofJk2NBGnvpxDtN1XiL6cg9Tf96X7yCo7piLgLgaxAow=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869983&Signature=UAb5F/NAA9MM1mUYMXQ14bpncGA%3D",
   "duration_ms" : 229813,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.665,
   "energy" : 0.325,
   "key" : 0,
@@ -3233,7 +3403,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Spj8ZAwjTBFAZSeiXqLahFq2VlBGruP_aqiOuSo2dSvB--0lJnnsVjYBYfTvTrPKVBYa-5v3jJ37IH-V4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869983&Signature=sijXbjIXFEW1VHPt0VW%2B%2B52clRU%3D",
   "duration_ms" : 228217,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.538,
   "energy" : 0.818,
   "key" : 1,
@@ -3252,7 +3423,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/sSD5ZQk_CaljuMBt6PbgQrCYSRm6j8hai-GhRgXDQdfp70CPoPgDMaZ9B1zASwRqCTjVBE8y5PNl9vPzQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869984&Signature=srtpqpNsVLa4w1yT92KAo4QbVc4%3D",
   "duration_ms" : 244907,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.532,
   "energy" : 0.825,
   "key" : 9,
@@ -3271,7 +3443,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/9BTiHgg8mGHuQe44drvskfK_kLVjaebhW2AWf-7JPI_lDb-ODXmj8KWEsdXn97Uh1a_YGCyzoz4eHNckM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869984&Signature=ujbpXdgpO8xABJG77yxPQXscOTg%3D",
   "duration_ms" : 195867,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.798,
   "energy" : 0.704,
   "key" : 10,
@@ -3290,7 +3463,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/YVCaZgv6gKoxCFLJSTrC0iiWkSlN-bsb4_eh5djAhk8fT1JQdIMu62mq5xkLt9aEgtZLEjviHVfrixxK0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869984&Signature=qX2hDaFyWC7hcGZE3JluJfx2o3Q%3D",
   "duration_ms" : 263980,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.664,
   "energy" : 0.573,
   "key" : 5,
@@ -3309,7 +3483,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Yqu1OwiHdpsjxPiwSMirJXBRlstJt46dj8_Dyra1vUDLdzy_06ELnKobnPpYO8lwxCR8smGrAcCJIN-UI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869985&Signature=2vdnjP6KctSgQHZcxZm4zZHXamM%3D",
   "duration_ms" : 160097,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.513,
   "energy" : 0.853,
   "key" : 4,
@@ -3328,7 +3503,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/EmD30w226tO2dOmvUYPloELkeXF7OuF8Ic9cBTyuXeJ6Z8ryVTb27tTCosBcHNBAcVF3OQ9i8MoWuy1HY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869985&Signature=KdRbQ1YZ6KGgGF2YzT0Kc/0LdYY%3D",
   "duration_ms" : 210426,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.525,
   "energy" : 0.674,
   "key" : 1,
@@ -3347,7 +3523,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/zdmG8QzuGDRBXLReqTXRnFx5L_i8i7AkjzR0tmePzT4_4s4bmzundvhxiKW-rfokaJZ5rHJaq9O27WL10=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869986&Signature=x1Dj/XctKfgmw26/7WXUIUyhH8k%3D",
   "duration_ms" : 181680,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.645,
   "energy" : 0.882,
   "key" : 4,
@@ -3366,7 +3543,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/1sDCdQ0Va3IbeRPtNJCWIh4COBJXWz1fRQv5In_zVk93T3p2Ogbji8IK91cFDHdJ-CVQy55a7kESqDnT0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869986&Signature=54R1u/OK9ceX6eEN1k9XYZLTHpc%3D",
   "duration_ms" : 181987,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.581,
   "energy" : 0.783,
   "key" : 2,
@@ -3385,7 +3563,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/HubiDQnJCJmX5SNTWxryH-dlOc698PYbCrApaPNiNGxTNiuFz2eW3Akp7dOBA8A_pN6SOTicrkDxK0LhI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869987&Signature=CWl00SiRf7uegElkWbvlV79M7As%3D",
   "duration_ms" : 213736,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.615,
   "energy" : 0.781,
   "key" : 5,
@@ -3404,7 +3583,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/IX3x0QcjVD5WKKLTsY4y9pP6KTW8-A4NJg4zK2-S4J6Tu8FsLwX-gxB0VIWAyrQApUFIZEcTSCimHBBqg=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869987&Signature=Gt1Dw8kfpdfGDlhbgTV1h5fAlqw%3D",
   "duration_ms" : 196817,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.835,
   "energy" : 0.648,
   "key" : 1,
@@ -3423,7 +3603,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/qRYnhwnVB5eEsMd33GdbhYQb5ZLitntpyrxFRHZ_ZqAIggQhYOaht3CT0gYVDf8YQwdmtogUuJ15giyPk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869987&Signature=SuQzbNqHf4JZlcNvv1I39uPhRf8%3D",
   "duration_ms" : 244640,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.322,
   "energy" : 0.280,
   "key" : 6,
@@ -3442,7 +3623,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/5zNgaA4Wkm3Qu0v13U_WyzNClV7K_UuyjF2mwUBAjF8fYETJKkUUxYwwuSbe1UsBPoEFsiUs6tpUlJ3d0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869988&Signature=PJeJv4zqJlFSAjXDOq/sTRtiB0o%3D",
   "duration_ms" : 248467,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.893,
   "energy" : 0.646,
   "key" : 11,
@@ -3461,7 +3643,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/J54AMw_XKuZRze91mAp_Xj6eHITa7QajMhJEs2YNMwnSh7gwONwd--7LTI_ykvo-Deo7kmKOpDeurXvo8=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869988&Signature=wpSyqbwM1HffQHX61CcGr0EMIaE%3D",
   "duration_ms" : 176855,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.707,
   "energy" : 0.788,
   "key" : 6,
@@ -3480,7 +3663,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/sKpEHg8jd1Yp-HTOuxMJD9mvyH-mWWSKlAahh7WPvBxxgh3by2Rnse27qjUjLfGEsA-7ZR8O-OW6pILWM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869989&Signature=R23Y4FZOPCLsME7bzCKReQfA9d4%3D",
   "duration_ms" : 238120,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.514,
   "energy" : 0.742,
   "key" : 8,
@@ -3499,7 +3683,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/X7hqYg6mAWK1jUwxWWVFeJ7XcnqHgVrzYmwzGwHWutSDcA6yi65_vDOPPqulbRmD_AymT_rzXiN4w4orM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869989&Signature=VoMKdYa355Idl8nirlzYJVXoASU%3D",
   "duration_ms" : 246453,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.829,
   "energy" : 0.527,
   "key" : 0,
@@ -3518,7 +3703,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/shSNfgQgfoDv_a8MzmntIEfmAkl-A5mj27KzrNspUzI0B6pricuqvSFjcONVmODxBtshhaBSFHVWJD-cM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869989&Signature=X4/V/PgZDIIz4Bd0pqNzJE80T6I%3D",
   "duration_ms" : 180000,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.747,
   "energy" : 0.877,
   "key" : 9,
@@ -3537,7 +3723,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/J6EoZQzVInusXu26_873d3Z0sLy8mqqNuky4gCHIljI2JeHUmgVY0-2aJoycuUAQr65DONGYkAmuIYxpc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869990&Signature=CgFPwvn6TLzkpl4/CwQdIlIPA3E%3D",
   "duration_ms" : 166138,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.667,
   "energy" : 0.538,
   "key" : 11,
@@ -3556,7 +3743,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/ZcBW8wsoNKN5BZRBxfzhUtlfDSOOy6dIYvjMnCVU4urBxAOxrV5Ft0-kvhLZ7YPUxyyENiVenk375yqC0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869990&Signature=OxnFCe8ztrs/At9EZc5dNTw5CBI%3D",
   "duration_ms" : 219320,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.831,
   "energy" : 0.935,
   "key" : 8,
@@ -3575,7 +3763,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Znj1YAmWRVv2kibXiKqijw1GOxoyLCc9hpvBfXVO07DU7tVNOjeUHo81Jihv9LUdevVOqZL3JfypJ_ncQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869991&Signature=HJ9KvLLd6pTQxsCK0wtMceUYaAI%3D",
   "duration_ms" : 259227,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.669,
   "energy" : 0.747,
   "key" : 6,
@@ -3594,7 +3783,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/uQkeIAEOufuB9QE96v4jIRdoafIYLCJGrBg2KSYEG-6x7CoG-8jRa7DS2lJhzu003yVjjNrOYC6KUSZ5c=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869991&Signature=9s/DXHjU8AOgM4JJuJvoCe6zRto%3D",
   "duration_ms" : 242440,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.489,
   "energy" : 0.641,
   "key" : 7,
@@ -3613,7 +3803,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/88ukuAd9-zv5i5d6zkyaX-Nbj7RG2SgiiY3m7v18QuNc-qlXHQCZGO64wum0vFYIHw-PiihhT1lF35L4c=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869991&Signature=XquKimFAAHkWuREBR5pxRIuwPFE%3D",
   "duration_ms" : 190173,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.834,
   "energy" : 0.831,
   "key" : 7,
@@ -3632,7 +3823,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/csy2OQ9cK4YxOiRVNLR0_qlw1XR1paB3vEARGEzu0ckapI2eoIKeBo6Q3QMs-dGDlyxhvO7kQsqqmFnIU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869992&Signature=hFmQ0jyXU89o7IaqyVLM8LYc430%3D",
   "duration_ms" : 163960,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.589,
   "energy" : 0.651,
   "key" : 6,
@@ -3651,7 +3843,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/rSnVoQXOTSO3PCDFG-pmFHyMBiR-fQEJD-RhB8J9B0dgsL1OBd3XcgWI_GycR5AaMqB4qtm7LsBjkFDTI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869992&Signature=S%2B%2BT3nsw26oAsCilwXStQ2PC/K0%3D",
   "duration_ms" : 212627,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.793,
   "energy" : 0.774,
   "key" : 0,
@@ -3670,7 +3863,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Btp--gU4vS37fcM3-yOuPjDudikN4kQJU63dWibNYi2ZNoXKPtRoVJfpbKO4i6hwzG49_s7C5FonIKiq4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869993&Signature=Rw7MO611FXzr8V6h8NEel2C0fC8%3D",
   "duration_ms" : 202307,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.497,
   "energy" : 0.0529,
   "key" : 4,
@@ -3689,7 +3883,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/j6D-Fw0GRk2AgZnjcPD0SJx6PHXzlMCJ4PKq3sUuney5Tv9qCyb16-whhz_ar0kl723LGigVq_2cotQ84=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869993&Signature=JWnBrdLfNrb3VH%2BWyiuXo0yn6tI%3D",
   "duration_ms" : 249707,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.660,
   "energy" : 0.383,
   "key" : 2,
@@ -3708,7 +3903,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/DttYcAEWPasL3Ee-ObyzfxudszAfpeoK7n4In-pSF3COVeYLALtvuOTmkHUiKL_1BlOzfQ9J_B-aofI3o=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869993&Signature=Z9TKYKxIO2ZWwIIh/PWup1jnBOk%3D",
   "duration_ms" : 227427,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.449,
   "energy" : 0.903,
   "key" : 9,
@@ -3727,7 +3923,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/i56M_AD1GXBbT3qnyZVHICpI0zylPxXYyzhy5smVMeO6syolalhEovvjgMcSVLW_dvEx2pVBoZra1Hzgg=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869994&Signature=dn2oFml55m9edQdKGX4Xxji2OFA%3D",
   "duration_ms" : 224026,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.532,
   "energy" : 0.869,
   "key" : 11,
@@ -3746,7 +3943,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/yJSg1ANHYWyUw6bjEQUG4qGQ10jm1zjWzwSIjGDkfUKbID_mDr2GG5ijP90He1cAmViyLasM3wsj7Viws=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869994&Signature=Bwv4mtlZyab9E62TtxGPWAyTX00%3D",
   "duration_ms" : 208373,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.576,
   "energy" : 0.807,
   "key" : 2,
@@ -3765,7 +3963,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/hMZuQw6jBC2qupqY1OiF4Wognqfnot6qVUkSAxT02HN5ZYZjwbXd7MzNkWrXui3P8fAPJ7YtdA7t5d8HA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869995&Signature=kUiCsQDEWWF7lsQpM1jC62Yg3a0%3D",
   "duration_ms" : 223265,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.651,
   "energy" : 0.741,
   "key" : 4,
@@ -3784,7 +3983,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/wfyhFQGhIbC0QuctfkrDQkNwi4n3_CiChbQJYPx5Az1I1Tko19QB5pgAFv2s0_pycAsTWbP2XQSbFcazc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869995&Signature=Wp6CNmVBxlEtGQqxIYGi9d00ER4%3D",
   "duration_ms" : 232773,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.595,
   "energy" : 0.823,
   "key" : 2,
@@ -3803,7 +4003,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/X97kAA6KuItP33qo1ksUxg5KHBUqNTNeg5sScNLQJzm_fvYHoPu2dVzR1z746tpdMdGECRehKxovMOcKo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869995&Signature=T61KRQ2vvIKLJOVuYpXElKQGknA%3D",
   "duration_ms" : 220147,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.582,
   "energy" : 0.564,
   "key" : 0,
@@ -3822,7 +4023,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/C8EU0gi5EbgP4g9ueZCDpVqf7whHprwOacCFbKg8D5T5scuH39W7OH7oHIx8dwszQVntR5wRZJB3anpX8=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869996&Signature=hqnyq/19JSt470EyyGlzdRmcn3E%3D",
   "duration_ms" : 196900,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.366,
   "energy" : 0.587,
   "key" : 5,
@@ -3841,7 +4043,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/PHTqCwudpWSw8XBVWz19EYcdMlB7wakS_DqAN40jOVjMj-q9wN-EO2a0kSUOLAllRbeko-DicHU1mEl5o=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869996&Signature=JRO67LEqvVo9M37G7JDLB1WtWLY%3D",
   "duration_ms" : 277171,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.602,
   "energy" : 0.885,
   "key" : 0,
@@ -3860,7 +4063,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/eQyRxwX31gJZPo_nPjwYjcafyUEfnA_CSyod7vLMUDDBe93mc0SLQeKyEnvYMyYigvu7e7mYynddcH3NQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869997&Signature=dIgGWAUqnrBUwqFdggfJjfCJxls%3D",
   "duration_ms" : 267600,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.564,
   "energy" : 0.737,
   "key" : 9,
@@ -3879,7 +4083,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/7hVyPwzfEnsERLL49DI2Ib72q6dydtM7GsYz_jzM-oPX7R4eYITkho0NHLaNKnIE0JfsCdMq4zOJ8wU90=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869997&Signature=lnIA/s5aiS8oxCrmCQoXZtkgkQo%3D",
   "duration_ms" : 220573,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.588,
   "energy" : 0.702,
   "key" : 11,
@@ -3898,7 +4103,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/2KXACg7rpX68jgdSo_zn7Ebczcpq-KczLpKSFoNF4de0CpUbXizUbc4Uz41yM1oSOySKd65TtRwtvS1HM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869997&Signature=uQXwvs3Kg4KGnlzrvy2gs7j5VrY%3D",
   "duration_ms" : 203686,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.512,
   "energy" : 0.809,
   "key" : 0,
@@ -3917,7 +4123,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/odiPxgSSlH53PlBwYD3_1Yro28mIRVzkld-mNAEwHW7CZze7kjKYKYwmUzfl0MnlmUeIM4IwxHFyU1MLw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869998&Signature=Hcc04zGAns6yg6Fs9thZctL4EYg%3D",
   "duration_ms" : 278640,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.539,
   "energy" : 0.892,
   "key" : 8,
@@ -3936,7 +4143,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/rltXGwMaeoEQMq2kp0kyWMq6CQU913nV_QRpfmS4ZxY7KihqkGNx8c3LgaJBramJy-cD7YpPP640mKk1k=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869998&Signature=dA0BSlbuQeJKhXRBD7mNpshknGM%3D",
   "duration_ms" : 200640,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.653,
   "energy" : 0.435,
   "key" : 2,
@@ -3955,7 +4163,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Bu34PQ7RLGxRh4YlOPVoiob8w31wCsc4JSseeVxBi33_CaXRnaMDaxBmYwh_HhBe9DZWnjHXsanM4vCCw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869999&Signature=lJtxa5i3%2BjWUJQwq8iIH2BG/yXI%3D",
   "duration_ms" : 199907,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.394,
   "energy" : 0.661,
   "key" : 4,
@@ -3974,7 +4183,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/RcTfuQjqmpUMa71LyQeZC6W5y1ZMwnc-1ecV-kjUGl3Y_LrlQ2Kb0hb9QAleulsOTrmZtUO45_QbMWwQo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869999&Signature=ZfgPBH8yLy%2BeBK9iDTLXPEvtZEc%3D",
   "duration_ms" : 260987,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.610,
   "energy" : 0.857,
   "key" : 8,
@@ -3993,7 +4203,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/6V3XmQVZBU669MMQuwkyY20y4wqMn28eYwm6wBxeTkAjOpFceJ0XObW99oJPGF-QiUpjDnvFE4p7yJru0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461869999&Signature=Z1v8bSFRD08O2GNMqPzLORuo1us%3D",
   "duration_ms" : 191600,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.538,
   "energy" : 0.872,
   "key" : 6,
@@ -4012,7 +4223,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/YyizhA_ct8k83LA1fpLpnVRG-m2dg7foweziUfqSl4l0YI1SXpIUwiymSKQeI_Yusq-4As7rzP25ad2Qg=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870000&Signature=rx/zHggCYFB9gLcYly2Qap2Mrok%3D",
   "duration_ms" : 273133,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.595,
   "energy" : 0.889,
   "key" : 1,
@@ -4031,7 +4243,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/tilQAwuiPv95wabLVi-lPwe6HA8ksp3zKBX3prOchbefYA9wWTFKPJlj4eRA6K3zHpJYqruiRDxXoBogw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870000&Signature=dEdTxOdddweggTEb4JAvvekjl4o%3D",
   "duration_ms" : 184387,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.628,
   "energy" : 0.548,
   "key" : 7,
@@ -4050,7 +4263,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/mMFPMgKAb0ApUrvxDH8UWRI3Xgg4n1Mm7MED_fqGbpabW6TMLDtWcQre32XU05303uRKXjRpC8KW66DY0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870001&Signature=7LWuq8ypUm/yV8QuQa%2BwFgHG7YQ%3D",
   "duration_ms" : 278781,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.740,
   "energy" : 0.546,
   "key" : 7,
@@ -4069,7 +4283,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Igz16wUh3x6ibG7_S-wtKzxIGiASfEOMGh8w7FrIpLoSr1pE8dlqYREsi3iNtDkRb5BVGM72295qCCf0k=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870001&Signature=7YppM5HpMa//CR7TCXB%2Bc65Uhas%3D",
   "duration_ms" : 217679,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.560,
   "energy" : 0.732,
   "key" : 4,
@@ -4088,7 +4303,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Knl4AwDzSyTsbBH99t2hrU_GW9rJP9N4XebbbtLZImS-7_2ZgtEw-_bV9ryYhLbA1Jls8ZGpsZs8ozqXs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870001&Signature=2dcgKnbPTpcFqtZ7XSHGCVS2L6g%3D",
   "duration_ms" : 226759,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.384,
   "energy" : 0.802,
   "key" : 7,
@@ -4107,7 +4323,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/f07nLwdAL1KAh0qZQVpBT-bILCOSIh8yxHqnAcgr1B1plMaDlGzFt7jmWjEUTdTa9efUBnt0-4Rcx2kzI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870002&Signature=09u8R9U2fUzg9Fr0rrZr26Mki%2B0%3D",
   "duration_ms" : 319240,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.742,
   "energy" : 0.809,
   "key" : 1,
@@ -4126,7 +4343,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/3OfqQQ_TgD_bgOoOabbz1sB_FxVkISSpkzFwTXEP8r0rY68qOX6YUn_djFFIlCsLnhNCteM7EjRQ4pNlU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870002&Signature=RFqmj/LEwqqVVApEf9sXsNewvuI%3D",
   "duration_ms" : 213524,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.585,
   "energy" : 0.421,
   "key" : 7,
@@ -4145,7 +4363,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/vqAndwLlHMJQ0PYNCP8BWqE2Qp4iJP0JJz6bmw8alr-fFHFan-0UMcv730CwzjROZfYHtF7mZWHaow27Q=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870003&Signature=Od9jv866LSIj7r19wAlI6nhvIiM%3D",
   "duration_ms" : 260640,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.813,
   "energy" : 0.453,
   "key" : 1,
@@ -4164,7 +4383,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/5zx1tQjR0DAvBH2RndPG4-Rpwn1u1cykNX3Pyvpv7StbpS8UDho9h3tEmApKejGg2v2i6j6ZqFPwfV6iM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870003&Signature=zz7kpzVRz0z4nd5AE30YZPAYzuk%3D",
   "duration_ms" : 208027,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.526,
   "energy" : 0.655,
   "key" : 1,
@@ -4183,7 +4403,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/g-HBLQ1Y4clbi_asCwoElyj9yiwkOzh9jmcnhF25JE64NqhjnV5B73xc1a0IQaBv2fS6AwyeDoUowJmG0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870003&Signature=ZEkkEPawYe7DYav2blkifrfeXNs%3D",
   "duration_ms" : 267212,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.599,
   "energy" : 0.869,
   "key" : 0,
@@ -4202,7 +4423,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/7LVucwwgaoTujnZV7Nl8ZDn3PiYkm843KpAzZpKFrt0HwxGBZ5FGvyWgSGTVnbTAwxJ0-bdI8rYWB0KqY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870004&Signature=37qVfeXU4tzzGVzjep7kwL3SlQw%3D",
   "duration_ms" : 193333,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.508,
   "energy" : 0.677,
   "key" : 1,
@@ -4221,7 +4443,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/EfC0xAE1n3yuxLqZXzXuZjAZmQEIlhEVJYheEL6daKqchwB960-tfL4OU6PVAASrAiOYzPlsboBb9UM08=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870004&Signature=sZdphMaM9E2bx/AxGfSxnhvyYu4%3D",
   "duration_ms" : 227280,
   "time_signature" : 5
-}{
+},
+{
   "danceability" : 0.721,
   "energy" : 0.541,
   "key" : 7,
@@ -4240,7 +4463,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/yZSFGA4GwK6c0N_uUgcKV0GClmKbymXhwMy0Mbk5Z-ouvpHyz3pBxlFG2rEc8KzhlwYoWpRnU4P3fCFgg=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870005&Signature=nfYEZ3VcqmzbUhsOozxgfeTOqzU%3D",
   "duration_ms" : 256600,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.613,
   "energy" : 0.664,
   "key" : 4,
@@ -4259,7 +4483,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/X6ACjwoOryjy8kzhOQHar4c51Q9xqRv6xUQXFK7-KCJqmp9QfKIovj6p7azy3llflwbPw2E_CpryVPbPc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870005&Signature=CysS7AOSi2pXZzrhr5opN8Ue6HE%3D",
   "duration_ms" : 220347,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.790,
   "energy" : 0.560,
   "key" : 1,
@@ -4278,7 +4503,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/e17UjQW-PkokJqVUEsv2W97lHbVBUp-CX1EBxMv6QGf8gDgjp1SNpxFJwSNLnAeW_JmjMWSMYgtByvbfk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870005&Signature=9NJdz8uv75DTvwFrYF4H6WxTO4M%3D",
   "duration_ms" : 224640,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.870,
   "energy" : 0.699,
   "key" : 5,
@@ -4297,7 +4523,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/KRZdSQctLs1J27ickOSt-inkY7njlPLGKuLwKeDq-DDwgqgrZgT_zEKtKUu35sSOIEjf3JGl8dEsMms68=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870006&Signature=zDGSJwAXpLrzHl7iBwFmtRA7jx4%3D",
   "duration_ms" : 198440,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.421,
   "energy" : 0.407,
   "key" : 10,
@@ -4316,7 +4543,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/iv3tlQl6HR6wVJRD1gcnADiAoa7ef5JWv6UBwy-F7wmRS2K6uMgO-qt2I1L5CAfHWN1Iq0gjv4E-WjFRw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870006&Signature=zy7xaUUg1BeY6J/bKzLWwrMA2J8%3D",
   "duration_ms" : 285120,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.681,
   "energy" : 0.608,
   "key" : 7,
@@ -4335,7 +4563,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/4j4E7gyBiw4U7QHybR5wB0pPX_OHO4GYUEfZ_8hlHuUSU9V_zSFStRwiOYsf46ADzIadkFeexw5FG6FU8=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870007&Signature=p2hnlOliBpfLQyz9KtMkbeWY6MQ%3D",
   "duration_ms" : 214720,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.394,
   "energy" : 0.800,
   "key" : 4,
@@ -4354,7 +4583,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/t0GKxA44MtNxvxHC5qIACzKRzTdgg5pTPM5sfd1XEc8_2brkR-mRXeDn5upBGqZ01SoxCf88Wq7yEzKfI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870007&Signature=US/TBVvI/2M0gDUx4ms2uAGY0O0%3D",
   "duration_ms" : 185413,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.712,
   "energy" : 0.694,
   "key" : 5,
@@ -4373,7 +4603,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/tV_8yQRRnqvSC4WE6zKq6OYdhLmun8Qs2MzNh172RPNh7EGQH6FDdDiROLwUv6nvsLzyMOXnoYhI9KnsU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870008&Signature=Kx/mL3u8MZJDRND/Dk3HugP3ZIg%3D",
   "duration_ms" : 206213,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.593,
   "energy" : 0.572,
   "key" : 10,
@@ -4392,7 +4623,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/NnyNSgm1t74CvV11T_XCwDRPfrYDTHcxUOjnb8jt8LmBW90dEUuKtnKIMIM20KNnx47ewfGjOiF8Qk9zc=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870008&Signature=alydeUMEPmeHKaPAIMp%2BS/Vh0fc%3D",
   "duration_ms" : 181573,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.728,
   "energy" : 0.253,
   "key" : 0,
@@ -4411,7 +4643,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/aFuMhge3_d3L3c-roDv2YIuZca9rVs0Y8tK5828P4Ayszob381tsLutFJftJ-jqR0CIXKjNoasE5P5Ozk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870008&Signature=9DA2RJeY5l0/VVcMlgylvoUFwf4%3D",
   "duration_ms" : 231333,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.670,
   "energy" : 0.637,
   "key" : 4,
@@ -4430,7 +4663,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/kQnqIQOSuWrDaie7bbcWi_J6iI4QCSe0XcHPkywFwXDpYURjObdvaaWmvgOXB2SbzbwCyEZ1vznrz4mpo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870009&Signature=wmaHhQWYrPTKjVxE78TMhDnx6u8%3D",
   "duration_ms" : 235947,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.554,
   "energy" : 0.179,
   "key" : 6,
@@ -4449,7 +4683,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Jq5CLAhfGnRZQ8Q36LuYQdPLtUgvrynFOMkc4miYiWXNm6e-8GMPdG-0xHd5yKXwfX59n6Kxn_EOx-iAI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870009&Signature=6mKTb3OJZ//CsAKRIzMVwhPoV/U%3D",
   "duration_ms" : 219080,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.717,
   "energy" : 0.563,
   "key" : 7,
@@ -4468,7 +4703,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/-4egcQ6yuhAT3s7nrKt_GbkAYW5zswiFFgetYdYqUSRq-jQsTgP_9ksdiY0gDLyuRhb0oIyz4R3oIdDLM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870010&Signature=9t%2BRKqr4TbDWrRiLnMNJl9gJPok%3D",
   "duration_ms" : 135920,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.628,
   "energy" : 0.698,
   "key" : 6,
@@ -4487,7 +4723,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/UgDwjAUsNa5RvLBbpHzlE1Rt3teEjzkf0e8ADIuANDs8D9diqCqxQrXf6wZLcM9mUruLl0BkBZ3krqGJs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870010&Signature=AM0%2BAWJp5Uww%2BlYiiYiOLaZ%2BuVo%3D",
   "duration_ms" : 211667,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.416,
   "energy" : 0.712,
   "key" : 5,
@@ -4506,7 +4743,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/CCXLngyQU4qcmjKFQUbPKA-mmj3joeYNLCVOXZoTW7kjFOojsBli4eYncPnFd3OlJZ9QoGF9-JUxCEyeQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870010&Signature=p4TWFZn/L%2BhI1ZjAsWpl9FjkmPg%3D",
   "duration_ms" : 395951,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.591,
   "energy" : 0.398,
   "key" : 8,
@@ -4525,7 +4763,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/4CzGqQ65fFvsxwbp_smdDzEwYurt6zf7mq2Jh7I5abTCYEy7xE2syBqLHLt3T-ucQ0XVG4xNBcEdfcHTI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870011&Signature=xVNFsS93xjfpYOPeCt4JYFRb0IE%3D",
   "duration_ms" : 320680,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.726,
   "energy" : 0.607,
   "key" : 2,
@@ -4544,7 +4783,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/pCseOg0KSzeJLuj_OgtVzZl5SkCSPQ4GPFPu_T3X5JAs0Cm5BMjSCHJiU7MXhXo0zOVvx5s42pystoszk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870011&Signature=KvE0ktpRHBwNvqc8otq5xGrBr6g%3D",
   "duration_ms" : 176744,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.795,
   "energy" : 0.646,
   "key" : 8,
@@ -4563,7 +4803,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/JWoWvgYtXdm9BRq6Rqp3JHBQGJIq8lrq0R7Zkz5qlXoGr-W7dbTzZEurG79kb9PL8ZyLVDEdXMqE2C21I=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870012&Signature=fvnexRTjp4PP5syzs43kFnLLQ3s%3D",
   "duration_ms" : 237054,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.882,
   "energy" : 0.699,
   "key" : 2,
@@ -4582,7 +4823,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/FvE8zQnsc2ngxmH_haKdswkCHUrX7IVnZYFecBkOz082Lzmk5XDWme_sPLHMnYlfQ2mhoiuyEB7JdRJTQ=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870012&Signature=HGSZKSJAnTT3hKn/hKpuTdJzqSk%3D",
   "duration_ms" : 257267,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.727,
   "energy" : 0.599,
   "key" : 1,
@@ -4601,7 +4843,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/5k3YJQq6rTNG_pv4Ob-nwEInGF-xkL_9T00B8dKBAEn1qF5Vj5izUx1Qb8lloZflr7tUSUZmJ7JNJ80i8=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870012&Signature=tQGYwMOAk3Wfcemf5t%2BeO41UsYw%3D",
   "duration_ms" : 197133,
   "time_signature" : 3
-}{
+},
+{
   "danceability" : 0.219,
   "energy" : 0.706,
   "key" : 0,
@@ -4620,7 +4863,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/fk7eHw8x9E3fwQmA1JXmOcrqkSBmIAHEGcO5FB9EaNeGA3pEd8JFxY6XRpGipg-2wpXjR6RQyQBVcp-hM=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870013&Signature=CSlnTaJLu/41vD15hs%2BRwZcsYsc%3D",
   "duration_ms" : 312985,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.706,
   "energy" : 0.568,
   "key" : 4,
@@ -4639,7 +4883,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/BPO4-QE73D6ada2yZ240zIf0yavhtPhPQKlll_LXQ7-tvITmGbphb_UnCF-yag-JpiEvxxapcAZRsbbCU=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870013&Signature=TVRa67d5SGdeA34MPEXl8ap7YNs%3D",
   "duration_ms" : 204027,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.698,
   "energy" : 0.800,
   "key" : 0,
@@ -4658,7 +4903,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/7GC11wqkcVzC0R55CfTA9PX4ihiAeMRofLa-iJ5WlO53LOcVp3LJKqibxMhdQRjYaVdYkuiOd9_nlOl5Q=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870014&Signature=mMZPAxk3MT8vFTX0i%2BWyVtYCPJ4%3D",
   "duration_ms" : 162066,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.706,
   "energy" : 0.855,
   "key" : 6,
@@ -4677,7 +4923,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/ha5JjAoBoLBe1gji7C0cWVlIonXFtTmrTrcZ45Sfa5dpzuARPFHrOOMXHiZil76QYUYVciAkOGqDNV_54=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870014&Signature=5f/GdpM9Hsz/grRbJeFwrwgKST0%3D",
   "duration_ms" : 227999,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.515,
   "energy" : 0.726,
   "key" : 9,
@@ -4696,7 +4943,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/zv1g8QdSgtfU-BQq6ARkhejBcq7a9vVxuhDdUR7z2f8wYOgxzMgOaGK19e9qJg2x2znXhm9dVB94-idn0=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870014&Signature=YLMW6%2Bo/1yu%2Br32pD/FFYrJa31c%3D",
   "duration_ms" : 197947,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.647,
   "energy" : 0.857,
   "key" : 2,
@@ -4715,7 +4963,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/yNqn2AaMzTRhKLRyuQ5UyYFzgz0N1fgg_HTe198lcWsmF8033ItwQ2yDvktN0fRHA-vEw_PmZoDGQuMUk=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870015&Signature=tEpH71MmDog9R90eHj4K1EmaVwQ%3D",
   "duration_ms" : 227693,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.660,
   "energy" : 0.750,
   "key" : 6,
@@ -4734,7 +4983,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/DlfTzw32DycXewLPEq2bSHO9yol2utLGgU8Zvu6U4dN_JT4bqOpG3mgJnXaPa3f7BYK7S81FzpXxJkMHI=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870015&Signature=DimQHLEsDAOjaR2SP9jAgyY9sVI%3D",
   "duration_ms" : 186467,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.926,
   "energy" : 0.517,
   "key" : 9,
@@ -4753,7 +5003,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/wgXPCQuR-LB6cKksPtYBPOcjQR80CLhYIu24Hl3xtcLjBvG9RBapJh9YBExvlP9aEt44YcHGBJgtFYXCs=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870016&Signature=Mm715ZcK52iBwMGaThV8HBmD3UM%3D",
   "duration_ms" : 197747,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.835,
   "energy" : 0.834,
   "key" : 5,
@@ -4772,7 +5023,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/I-S-uAGYxxHLv6Vh7ya4nJNZ76UhOmqtJWZcv7l6Dnd4E95ivxy3d5W5ZRjpajWnHbAJQU0-oNYUH_hLw=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870016&Signature=tTfIcoJRiuQN5dvsEynbUC9ujNA%3D",
   "duration_ms" : 200333,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.686,
   "energy" : 0.754,
   "key" : 9,
@@ -4791,7 +5043,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/CRORfAN-Y1cEaEd9lXLSNOuIQcOFzup8inTZ8FWR0sCxdkKan3eTshfjLT1q5JLtUbEzRWl1iiKhHmq74=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870016&Signature=D1vxyNjrFzsguJBByBAI/03FUW4%3D",
   "duration_ms" : 223853,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.776,
   "energy" : 0.662,
   "key" : 1,
@@ -4810,7 +5063,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/rjiW4A-sgRkvDaSKdFCr4KdFa9Cb5j8Cb3-DEAfunuUZhFb9QPpF3tOZIJ9mZwz8Au6xu-I36YkmVi5GE=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870017&Signature=oU/U3nOoaHLNeMJ0BnFJbUHETu0%3D",
   "duration_ms" : 182733,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.563,
   "energy" : 0.763,
   "key" : 10,
@@ -4829,7 +5083,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/iRrH4gODO7oTi4aVTnF5e-UuTSbhUZa-64EkhjW3EIXOp1kvHtX8UEliOeSxdotcCYT-z4XOvxQE8gMp4=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870017&Signature=lgNGMlckFp8kg7QXODBJjT6wtIE%3D",
   "duration_ms" : 202960,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.660,
   "energy" : 0.695,
   "key" : 9,
@@ -4848,7 +5103,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/bhXtcgARiSeLuVoYgEa5EniSO1A9XHXg_rD_25wpkhkp7d_Yo2F2RXQlhXXrB9ZtL7AcrreEHrpjs91nY=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870018&Signature=a%2BAE8Unil0kgR3GabXqj%2BmOEV8I%3D",
   "duration_ms" : 382387,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.741,
   "energy" : 0.720,
   "key" : 5,
@@ -4867,7 +5123,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/KVix-QStizKawbWFpbwWEKREafo2edju8cuUv7gfBDJhDhg6YdCoBSRAI23INbDICvALZXKSVXKdSyl3Q=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870018&Signature=X6D9f6UNaCECx2f4tiREnnMVm0U%3D",
   "duration_ms" : 216947,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.584,
   "energy" : 0.921,
   "key" : 2,
@@ -4886,7 +5143,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/Xv7eqAuxliF9tS4fI9lv5lxZhmEevX1DEObcdzp2az47UT7wOz1Db3pkhMiUVd5QZ5rFrYzUZUHNPjVEg=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870019&Signature=9WxWLC/3gj%2Bp0LVvqz3zWdMu93o%3D",
   "duration_ms" : 210867,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.736,
   "energy" : 0.719,
   "key" : 8,
@@ -4905,7 +5163,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/gcZsBQ5N3GkOEtJMSoTN9YMw2w02idfRUZiFzE1k1WqhO1uF2ouEngxWZ4qK8e8IJ_9iUM-gbKGnvzDGA=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870019&Signature=chZSl6JoTDJoozvjGWsde5RLeok%3D",
   "duration_ms" : 206667,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.673,
   "energy" : 0.795,
   "key" : 8,
@@ -4924,7 +5183,8 @@
   "analysis_url" : "http://echonest-analysis.s3.amazonaws.com/TR/tJ9rQwTS6L-mO___nqaGHIXCO--ukiQKEIez878vG6zHZ0SNvHeJOan9ieGCpHGFpZFeEw9wwh6MyfBCo=/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1461870019&Signature=/pSlJs8N7pjPEG9tk7R4d4zQgsQ%3D",
   "duration_ms" : 233973,
   "time_signature" : 4
-}{
+},
+{
   "danceability" : 0.688,
   "energy" : 0.736,
   "key" : 2,
