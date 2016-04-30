@@ -36,7 +36,7 @@ for key,d in table.scan():
     if(genres):
         g_count += 1
         f_genres = ' '.join(genres)
-        f_genres = re.sub("[^a-zA-Z]", " ", f_genres)
+        f_genres = re.sub("[^a-zA-Z]", " ", f_genres).lower()
         final['genres'] = f_genres
     else:
         final['genres'] = None
@@ -45,7 +45,7 @@ for key,d in table.scan():
     if(styles):
         s_count += 1
         f_styles = ' '.join(styles)
-        f_styles = re.sub("[^a-zA-Z]", " ",f_styles)
+        f_styles = re.sub("[^a-zA-Z]", " ", f_styles).lower()
         final['styles'] = f_styles
     else:
         final['styles'] = None
