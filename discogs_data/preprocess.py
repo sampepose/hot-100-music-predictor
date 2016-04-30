@@ -2,14 +2,16 @@ import discogs_client
 import happybase
 import json
 import unicodedata
-
+import re
 from variables import DEPENDENT_TABLE, DEPENDENT_COLUMN_FAMILY, DCOG_TABLE, DCOG_COLUMN_FAMILY, DCOG_COLUMN, MACHINE, VUID
 
 connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
 table = connection.table(DCOG_TABLE)
 
+# overall count
 count = 0
 
+# count of successful data entries of alias, genre, and style 
 a_count = 0
 g_count = 0
 s_count = 0
@@ -34,6 +36,7 @@ for key,d in table.scan():
     if(genres):
         g_count += 1
         f_genres = ' '.join(genres)
+        f_genres = re.sub("[^a-zA-Z]", " ", f_genres)
         final['genres'] = f_genres
     else:
         final['genres'] = None
@@ -42,6 +45,7 @@ for key,d in table.scan():
     if(styles):
         s_count += 1
         f_styles = ' '.join(styles)
+        f_styles = re.sub("[^a-zA-Z]", " ",f_styles)
         final['styles'] = f_styles
     else:
         final['styles'] = None
