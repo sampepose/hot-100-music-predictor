@@ -37,8 +37,8 @@ def main():
     spotify_features = getSpotifyFeatures(keys)
     discogs_features = getDiscogsFeatures(keys)
 
-    XIdxs = [0, 1, 2]
-    XNames = ["Dep", "Twitter", "Spotify"]
+    XIdxs = [0, 1, 2, 3]
+    XNames = ["Dep", "Twitter", "Spotify", "Discogs"]
     Xs = [depfeatures, twitter_features, spotify_features,discogs_features]
     Y = labels
 
