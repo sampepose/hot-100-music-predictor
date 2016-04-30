@@ -31,7 +31,6 @@ def getSpotifyFeatures(keys):
 
         if (d != 0):
             data = json.loads(d.itervalues().next())
-            count = count + 1
             energy = data['energy']
             live = data['liveness']
             tempo = data['tempo']
@@ -40,7 +39,8 @@ def getSpotifyFeatures(keys):
             time = data['duration_ms']
             spotify_features.append([energy,live,tempo,speech,dance,time]) 
 
-    #if len(missing_keys) > 0:
+    if len(missing_keys) > 0:
+        print "Spotify: Missing %d songs" % len(missing_keys)
     #    print "Couldn't find spotify features for: ",missing_keys
 
     return np.array(spotify_features)
