@@ -25,6 +25,8 @@ TABLE_NAME_S = 'SpotifyFeatures'
 COLUMN_FAMILY_S = 'song'
 COLUMN_S = 'data'
 
+TABLE_S_FIXED = 'SpotifyFeaturesFixed'
+
 TABLE_NAME_BB = 'BillboardFeatures'
 COLUMN_FAMILY_BB = 'song'
 COLUMN_BB = 'data'

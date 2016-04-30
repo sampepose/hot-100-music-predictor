@@ -6,13 +6,12 @@ import re
 from sklearn.feature_extraction import DictVectorizer
 import numpy as np
 
-from variables import MACHINE, VUID, TABLE_NAME_S
-
+from variables import MACHINE, VUID, TABLE_S_FIXED
 
 def getSpotifyFeatures(keys):
     
     connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
-    table = connection.table(TABLE_NAME_S)
+    table = connection.table(TABLE_S_FIXED)
 
     #Features to keep running stats of:
     
@@ -59,6 +58,8 @@ def getSpotifyFeatures(keys):
     print "Average speechiness: ",(a_speechiness/count)
     print "Average danceability: ",(a_danceability/count)
     print "Average duration: ",(a_duration/count)
+
+    print spotify_features
 
     return np.array(spotify_features)
 
