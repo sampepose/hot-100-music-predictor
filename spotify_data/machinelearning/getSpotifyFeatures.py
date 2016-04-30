@@ -8,7 +8,7 @@ import numpy as np
 
 from variables import MACHINE, VUID,PAGE_TABLE_SPOTIFY,COLUMN_FAMILY_SPOTIFY,COLUMN_SPOTIFY,PAGE_TABLE_SPOTIFY_TRACKS,TRACK_COLUMN_FAMILY,TRACK_COLUMN,BBRD_TABLE,BBRD_COLUMN_FAMILY,BBRD_COLUMN,DEPENDENT_TABLE,DEPENDENT_COLUMN_FAMILY,DEPENDENT_COLUMN,TABLE_NAME_S,COLUMN_FAMILY_S,COLUMN_S,TABLE_NAME_BB,COLUMN_FAMILY_BB,COLUMN_BB,TWITTER_TABLE,TWITTER_COLUMN_FAMILY,TWITTER_ARTIST_COLUMN,TWITTER_TITLE_COLUMN
 
-def spotifyFeatures():
+def getSpotifyFeatures():
     
     connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
     table = connection.table(TABLE_NAME_S)
@@ -57,6 +57,6 @@ def spotifyFeatures():
     return np.array(spotify_features)
 
 if __name__ == '__main__':
-    spotifyFeatures()
+    getSpotifyFeatures()
 
 
