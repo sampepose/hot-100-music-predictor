@@ -35,6 +35,8 @@ def main():
     X = np.hstack((depfeatures, twitter_features)) # other features go here
     Y = labels
 
+    print X[1:5, :]
+
     clf = linear_model.SGDClassifier(loss='log')
     test_classifier(clf, X, Y)
 
@@ -43,7 +45,6 @@ def main():
 
     clf = RandomForestClassifier(n_estimators=10, max_depth=10)
     test_classifier(clf, X, Y)
-
 
 if __name__ == '__main__':
     main()
