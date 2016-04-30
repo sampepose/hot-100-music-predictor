@@ -20,3 +20,7 @@ DEPENDENT_COLUMN = 'data'
 DCOG_TABLE = 'Discogs'
 DCOG_COLUMN_FAMILY = 'stuff'
 DCOG_COLUMN = 'data'
+
+DCOG_F_TABLE = "DiscogsFeatures"
+DCOG_F_COLUMN_FAMILY = "features"
+DCOG_F_COLUMN = 'data'
