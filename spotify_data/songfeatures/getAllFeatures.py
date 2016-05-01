@@ -27,8 +27,9 @@ b = feat_table.batch()
 # URIs finally populated, 1852 entries
 for key,val in dep_table.scan():
    
-    if total > 2000:    #everything is in the DB already, don't put it in again
-
+    #check if key is in feat_table
+    if (len(feat_table.row(key))) == 0:
+        print "Adding ",key," to FEATURES_TABLE"
         data = json.loads(val.itervalues().next())
         new_data = {}
         new_data['title'] = data['title']
@@ -38,35 +39,22 @@ for key,val in dep_table.scan():
             for j in v['items']:
                 new_data['uri'] = j['uri']
         b.put(key,{FEATURES_COLF + ':' + FEATURES_COL : json.dumps(new_data)})
-        b.send()
-        print total,key
-    
-    total += 1
 
+b.send()
+print "Done adding to FEATURES table..."
 
 b = final_table.batch()
 
-cnt = 0
-for k,v in final_table.scan():
-    cnt += 1
-print "FINAL: ",cnt
-
-index = 0
 for key, val in feat_table.scan():
     
-    if index >= cnt:
-    
-        hund += 1
-
-        data = json.loads(val.itervalues().next())
-        if 'uri' not in data:
-            print index,":Missing URI: ", key
-        else:
-            print index,key,data
+    data = json.loads(val.itervalues().next())
+    if 'uri' not in data:
+        print "Missing URI, can't search for: ", key
+    else:
+        if (len(final_table.row(key))) == 0:    
             result = sp.audio_features([data['uri'][14:]])
-        
             if (result[0] != None) and len(result) == 1:
-                print index, "GOOD"
+                print "Adding: ",key
                 final_data = {}
                 final_data['title'] = data['title']
                 final_data['artist'] = data['artist']
@@ -77,11 +65,10 @@ for key, val in feat_table.scan():
                 final_data['duration'] = result[0]['duration_ms']
                 final_data['danceability'] = result[0]['danceability']
                 b.put(key,{FEATURES_COLF + ':' + FEATURES_COL : json.dumps(final_data)})
-                b.send()
             else:
-                print index,key,"BAD"
+                print "Search couldn't find features for: ", key
 
-    index += 1
+b.send()
 
 final_cnt = 0
 for key, val in final_table.scan():
