@@ -27,13 +27,13 @@ def getSpotifyFeatures(keys):
             energy = data['energy']
             live = data['liveness']
             tempo = data['tempo']
-            # speech = data['speechiness']
+            speech = data['speechiness']
             dance = data['danceability']
             time = data['duration']
-            spotify_features.append([energy,live,tempo,dance,time])
-            # spotify_features.append([energy,live,tempo,speech,dance,time]) 
+            #spotify_features.append([energy,live,tempo,dance,time])
+            spotify_features.append([energy,live,tempo,speech,dance,time]) 
         else:
-            spotify_features.append([0,0,0,0,0])
+            spotify_features.append([0,0,0,0,0,0])
             missing_keys.append(key[0])
 
     if len(missing_keys) > 0:
