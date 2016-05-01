@@ -24,10 +24,10 @@ a_duration = []
 
 spotify_features = []
 
+# Stats for ALL songs in dependent table that have features
 for key, d in table.scan():
 
     data = json.loads(d.itervalues().next())
-        
     count = count + 1
     a_energy.append(data['energy'])
     a_liveness.append(data['liveness'])
