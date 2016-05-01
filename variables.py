@@ -32,6 +32,14 @@ DCOG_TABLE = 'Discogs'
 DCOG_COLUMN_FAMILY = 'stuff'
 DCOG_COLUMN = 'data'
 
+DCOG_NEW = 'DiscogsNew'
+DCOG_NEW_CF = 'stuff'
+DCOG_NEW_COL = 'data'
+
+DCOG_F_TABLE = "DiscogsFeatures"
+DCOG_F_COLUMN_FAMILY = "features"
+DCOG_F_COLUMN = 'data'
+
 #old
 TABLE_NAME_S = 'SpotifyFeatures'
 COLUMN_FAMILY_S = 'song'
