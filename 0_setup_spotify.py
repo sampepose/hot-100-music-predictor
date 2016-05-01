@@ -1,21 +1,18 @@
 import happybase
 import sys
+import json
 
-from variables import MACHINE, VUID, PAGE_TABLE_SPOTIFY, COLUMN_FAMILY_SPOTIFY, INDEX_TABLE_SPOTIFY
-
-
+from variables import MACHINE, VUID, SPOTIFY_FEATURES, FEATURES_COLF, FINAL_FEATURES 
 def setup():
     print 'Creating...'
     connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
-    connection.create_table(PAGE_TABLE_SPOTIFY, {COLUMN_FAMILY_SPOTIFY: dict()})
-    connection.create_table(INDEX_TABLE_SPOTIFY, {COLUMN_FAMILY_SPOTIFY: dict()})
+    connection.create_table(FINAL_FEATURES, {FEATURES_COLF: dict()})
 
 
 def delete():
     print 'Deleting...'
     connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
-    connection.delete_table(PAGE_TABLE_SPOTIFY, True)
-    connection.delete_table(INDEX_TABLE_SPOTIFY, True)
+    connection.delete_table(FINAL_FEATURES, True)
 
 
 if __name__ == '__main__':
@@ -26,12 +23,15 @@ if __name__ == '__main__':
             delete()
         elif sys.argv[1] == 'scan':
             connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
-            table = connection.table(PAGE_TABLE_SPOTIFY)
+            table = connection.table(FINAL_FEATURES)
             i = 0
             for k, v in table.scan():
-                print i, k, v,
-                i += 1
-                if i > 10: break
+                data = json.loads(v.itervalues().next())
+                if 'energy' not in data:
+                    print "MISSING: ",k
+                i += 1    
+            print "COUNT: ",i
+
     else:
         print 'Not enough params'
     print 'Done...'
