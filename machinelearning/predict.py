@@ -11,9 +11,10 @@ from sklearn.cross_validation import StratifiedKFold
 from getDependentFeatures import getDependentFeatures
 from twitter.getFeatures import getTwitterBaseline, getTwitterSpecial
 from spotify_data.machinelearning.getFeatures import getSpotifyFeatures
+from spotify_data.machinelearning.getFeatures import getSpecialSpotifyFeatures
 from discogs_data.machinelearning.getFeatures import getDiscogsFeatures
 from spotify_data.songfeatures.fetchAudioData import getAudioData
-
+from spotify_data.machinelearning.getCounts import getDaysPlays
 
 def classify(YPredProba, thresh):
     labels = []
@@ -59,10 +60,12 @@ def main():
     twitter_baseline = getTwitterBaseline(keys)
     twitter_special = getTwitterSpecial(keys)
     spotify_features = getSpotifyFeatures(keys)
+    spotify_special = getSpecialSpotifyFeatures(keys)
     discogs_features = getDiscogsFeatures(keys)
+    days_plays_features = getDaysPlays(keys)
 
-    XNames = ["Dep", "TwitterBaseline", "TwitterSpecial", "Spotify", "Discogs"]
-    Xs = [depfeatures, twitter_baseline, twitter_special, spotify_features, discogs_features]
+    XNames = ["Dep", "TwitterBaseline", "TwitterSpecial", "SpotifyBaseline", "SpotifySpecial", "Discogs", "DaysPlays"]
+    Xs = [depfeatures, twitter_baseline, twitter_special, spotify_features, spotify_special, discogs_features, days_plays_features]
     Y = labels
 
     # Test each feature set combination
@@ -79,11 +82,11 @@ def main():
             XSubset = [Xs[i] for i in subset]
             X = np.hstack(tuple(XSubset))
        
-            clf = linear_model.SGDClassifier(loss='log')
-            test_classifier(clf, X, Y)
+            #clf = linear_model.SGDClassifier(loss='log')
+            #test_classifier(clf, X, Y)
 
-            clf = GaussianNB()
-            test_classifier(clf, X, Y)
+            #clf = GaussianNB()
+            #test_classifier(clf, X, Y)
             
             clf = RandomForestClassifier(n_estimators=100, max_depth=100)
             test_classifier(clf, X, Y)

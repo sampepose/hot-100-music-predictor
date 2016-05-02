@@ -5,6 +5,8 @@ SPOTIFY_TABLE = 'Spotify'
 SPOTIFY_COLF = 'song'
 SPOTIFY_COL = 'data'
 
+SPOTIFY_COUNTS = 'SpotifyCounts'
+
 FINAL_FEATURES = 'FinalFeaturesSpotify'
 SPOTIFY_FEATURES = 'FeaturesFromSpotify'
 FEATURES_COLF = 'features'
