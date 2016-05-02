@@ -31,8 +31,8 @@ def getDaysPlays(keys):
             days_and_plays.append([0,0])
             missing_keys.append(key[0])
 
-    if len(missing_keys) > 0:
-        print "Spotify: Missing %d songs" % len(missing_keys)
+    #if len(missing_keys) > 0:
+    #    print "Spotify: Missing %d songs" % len(missing_keys)
 
     return np.array(days_and_plays)
 
