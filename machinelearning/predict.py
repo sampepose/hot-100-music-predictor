@@ -10,8 +10,10 @@ from sklearn.cross_validation import StratifiedKFold
 
 from getDependentFeatures import getDependentFeatures
 from twitter.getFeatures import getTwitterFeatures
-from spotify_data.machinelearning.getSpotifyFeatures import getSpotifyFeatures
+from spotify_data.machinelearning.getFeatures import getSpotifyFeatures
 from discogs_data.machinelearning.getFeatures import getDiscogsFeatures
+from spotify_data.songfeatures.fetchAudioData import getAudioData
+
 
 def classify(YPredProba, thresh):
     labels = []
@@ -52,6 +54,7 @@ def test_classifier(clf, X, Y):
 
 
 def main():
+    getAudioData()
     keys, depfeatures, labels = getDependentFeatures()
     twitter_features = getTwitterFeatures(keys)
     spotify_features = getSpotifyFeatures(keys)

@@ -3,9 +3,9 @@ import happybase
 import json
 import unicodedata
 
-from variables import DEPENDENT_TABLE, DEPENDENT_COLUMN_FAMILY, DCOG_TABLE, DCOG_COLUMN_FAMILY, DCOG_COLUMN, MACHINE, VUID
+from variables import DEPENDENT_TABLE, DEPENDENT_COLUMN_FAMILY, DCOG_TABLE, DCOG_COLUMN_FAMILY, DCOG_COLUMN, MACHINE, VUID, DCOG_NEW, DCOG_NEW_CF, DCOG_NEW_COL
 
-def getDiscogs():
+def getMoreDiscogs():
 
 	d = discogs_client.Client('ExampleApplication/0.1', user_token="RAzmbwmoidsSvCfkfKKnWoRpYnLKGsYMVwsXvhrZ")
 
@@ -14,30 +14,41 @@ def getDiscogs():
 
 	connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
 	dcog_table = connection.table(DCOG_TABLE)
+	dcog_ntable = connection.table(DCOG_NEW)
 	dpd_table = connection.table(DEPENDENT_TABLE)
 
+	old = 0
+	new = 0
 	count = 0
 	artist_fail = 0
 	style_fail = 0
 
 	completed = False
 
-	while (not completed):	
+	while(not completed):
 		# Hbase table.scan times out and with web requests this time out may be reached
 		# try except is for that expected behavior, will recover and pick up from where 
 		# left off. 
 		try:
-			# For every entry in the dependent dataset, get associated discog data
+		# For every entry in the dependent dataset, get associated discog data
 			for key,data in dpd_table.scan():
-		
-				if(dcog_table.row(key))
-					# Already in data table found from earlier iteration 
-					continue
+	
 
+				count += 1
+				# If it was already in the dcog_table then skip this row
+				if(dcog_table.row(key)):
+					old += 1
+					continue
+			
+	
+				if(dcog_ntable.row(key)):
+					new += 1
+					continue
+				
 				dpd_data = json.loads(data.itervalues().next())
 				title = dpd_data['title']
 				artist = dpd_data['artist']
-				count += 1
+				new += 1
 				print (key)
 	
 				# Try to search for artist
@@ -47,7 +58,7 @@ def getDiscogs():
 				except:
 					artist_fail += 1
 					alias = None
-		
+				
 				# Try to search for release that contained the song title
 				try:
 					style_search = d.search(title + ' ' + artist, type = 'release')
@@ -60,17 +71,19 @@ def getDiscogs():
 
 				# Put into HBASE
 				dcog_data = {'alias':alias, 'styles':styles,'genres':genres}
-				dcog_table.put(key, {DCOG_COLUMN_FAMILY +':' + DCOG_COLUMN : json.dumps(dcog_data)})
+				dcog_ntable.put(key, {DCOG_COLUMN_FAMILY +':' + DCOG_COLUMN : json.dumps(dcog_data)})
 
-			# Statistics about failures 
-			print("Success Count:  " + str(count))
-			print("Artist Failure Count:  " + str(artist_fail))
-			print("Sytle Failure Count:  " + str(style_fail))
-		
 			completed = True
-		
 		except:
-			print ("HBASE TIMEOUT, Trying again")
-			
+			print("HBASE TIMEOUT, TRYING AGAIN")
+	
+	# Statistics about failures 
+	print("Total Count:  " + str(count))
+	print("Already Existed, Skipped:  " + str(old))
+	print("New entry count: " + str(new))
+	print("Artist Failure Count:  " + str(artist_fail))
+	print("Sytle Failure Count:  " + str(style_fail))
+	
 if __name__ == '__main__':
-	getDiscogs()
+	getMoreDiscogs()
+
