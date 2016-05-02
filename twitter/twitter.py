@@ -47,6 +47,7 @@ def main(spark):
         for title in titles:
             if title in tweet or title in hashtags:
                 yield (params[1][0], 1)
+        yield (params[1][0], 0)
    
     artist_tweet_counts = tweets.cartesian(artists) \
         .flatMap(processCross) \
@@ -61,7 +62,6 @@ def main(spark):
     def store(rows, c, b):
         for row in rows:
             key = TWITTER_COLUMN_FAMILY + ":" + c
-            print type(row[0])
             b.put(row[0], {key: json.dumps({'item': row[0], 'count': row[1]})})
 
     twitter_table = connection.table(TWITTER_TABLE)

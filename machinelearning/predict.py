@@ -15,22 +15,42 @@ from discogs_data.machinelearning.getFeatures import getDiscogsFeatures
 from spotify_data.songfeatures.fetchAudioData import getAudioData
 
 
+def classify(YPredProba, thresh):
+    labels = []
+    for yp in YPredProba:
+        if yp > thresh:
+            labels.append(1)
+        else:
+            labels.append(0)
+    return labels
+
+def accuracy(YTrue, YPred):
+    correct, count = 0, 0
+    for (yt, yp) in zip(YTrue, YPred):
+        count += 1
+        if yt == yp:
+            correct += 1
+    return float(correct) / count
+
 def test_classifier(clf, X, Y):
     folds = StratifiedKFold(Y, 5)
     aucs = []
     accs = []
+
+    #for x in np.arange(0, 1, 0.05):
     for train, test in folds:
-        # Sizes
-        # print X[train].shape, Y[train].shape
-        # print X[test].shape, len(prediction)
+            #aucs = []
+            #accs = []
 
         clf.fit(X[train], Y[train])
         prediction = clf.predict(X[test])
         prediction_proba = clf.predict_proba(X[test])
-        accs.append(accuracy_score(Y[test], prediction))
+
+        pred = classify(prediction_proba[:, 1], 0.6) # Value found via cross validation
+        accs.append(accuracy(Y[test], pred))
         aucs.append(roc_auc_score(Y[test], prediction_proba[:, 1]))
     print "Acc:\t", clf.__class__.__name__, "\t", np.mean(accs)
-    #print "AUC:\t", clf.__class__.__name__, "\t", np.mean(aucs)
+    print "AUC:\t", clf.__class__.__name__, "\t", np.mean(aucs)
 
 
 def main():
@@ -42,7 +62,7 @@ def main():
 
     XIdxs = [0, 1, 2, 3]
     XNames = ["Dep", "Twitter", "Spotify", "Discogs"]
-    Xs = [depfeatures, twitter_features, spotify_features,discogs_features]
+    Xs = [depfeatures, twitter_features, spotify_features, discogs_features]
     Y = labels
 
     # Test each feature set combination
@@ -58,14 +78,14 @@ def main():
 
             XSubset = [Xs[i] for i in subset]
             X = np.hstack(tuple(XSubset))
-        
+       
             clf = linear_model.SGDClassifier(loss='log')
             test_classifier(clf, X, Y)
 
             clf = GaussianNB()
             test_classifier(clf, X, Y)
-
-            clf = RandomForestClassifier(n_estimators=10, max_depth=10)
+            
+            clf = RandomForestClassifier(n_estimators=100, max_depth=100)
             test_classifier(clf, X, Y)
 
             print "\n"
