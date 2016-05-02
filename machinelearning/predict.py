@@ -66,10 +66,11 @@ def main():
 
     XNames = ["Dep", "TwitterBaseline", "TwitterSpecial", "SpotifyBaseline", "SpotifySpecial", "Discogs", "DaysPlays"]
     Xs = [depfeatures, twitter_baseline, twitter_special, spotify_features, spotify_special, discogs_features, days_plays_features]
+    XIdxs = range(0, len(Xs))
     Y = labels
 
     # Test each feature set combination
-    for L in range(0, len(XNames) + 1):
+    for L in range(0, len(XIdxs) + 1):
         for subset in itertools.combinations(XIdxs, L):
             if len(subset) == 0:
                 continue
