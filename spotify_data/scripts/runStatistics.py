@@ -9,7 +9,6 @@ import operator
 
 from variables import MACHINE, VUID, SPOTIFY_COUNTS, SPOTIFY_COLF, SPOTIFY_COL
 
-
 def getTopX(l,x,y):
     indx = 0
     d = dict() #return this
@@ -40,6 +39,12 @@ days = sorted(days.items(), key=lambda x: x[1], reverse=True)
 
 top_days = getTopX(days,0,5)
 top_plays = getTopX(plays,0,5)
+
+alldays = getTopX(days,0,100000)
+cnt = 0
+for i in alldays:
+    cnt +=1
+print "Total songs:",cnt
 
 print "Most days:"
 for i in top_days:
