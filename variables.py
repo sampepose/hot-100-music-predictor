@@ -55,6 +55,5 @@ COLUMN_BB = 'data'
 
 TWITTER_TABLE = 'Twitter'
 TWITTER_COLUMN_FAMILY = 'counts'
-TWITTER_ARTIST_COLUMN = 'artist'
-TWITTER_TITLE_COLUMN = 'title'
+TWITTER_COLUMN = 'term'
 

@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.cross_validation import StratifiedKFold
 
 from getDependentFeatures import getDependentFeatures
-from twitter.getFeatures import getTwitterFeatures
+from twitter.getFeatures import getTwitterBaseline, getTwitterSpecial
 from spotify_data.machinelearning.getFeatures import getSpotifyFeatures
 from discogs_data.machinelearning.getFeatures import getDiscogsFeatures
 from spotify_data.songfeatures.fetchAudioData import getAudioData
@@ -56,24 +56,24 @@ def test_classifier(clf, X, Y):
 def main():
     getAudioData()
     keys, depfeatures, labels = getDependentFeatures()
-    twitter_features = getTwitterFeatures(keys)
+    twitter_baseline = getTwitterBaseline(keys)
+    twitter_special = getTwitterSpecial(keys)
     spotify_features = getSpotifyFeatures(keys)
     discogs_features = getDiscogsFeatures(keys)
 
-    XIdxs = [0, 1, 2, 3]
-    XNames = ["Dep", "Twitter", "Spotify", "Discogs"]
-    Xs = [depfeatures, twitter_features, spotify_features, discogs_features]
+    XNames = ["Dep", "TwitterBaseline", "TwitterSpecial", "Spotify", "Discogs"]
+    Xs = [depfeatures, twitter_baseline, twitter_special, spotify_features, discogs_features]
     Y = labels
 
     # Test each feature set combination
-    for L in range(0, len(XIdxs) + 1):
+    for L in range(0, len(XNames) + 1):
         for subset in itertools.combinations(XIdxs, L):
             if len(subset) == 0:
                 continue
 
             out = ""
             for i in subset:
-                out += XNames[i]
+                out += XNames[i] + ","
             print out
 
             XSubset = [Xs[i] for i in subset]
