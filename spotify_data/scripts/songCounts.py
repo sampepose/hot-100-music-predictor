@@ -37,25 +37,15 @@ for i in os.listdir("./spotify_data/data/"):
                 key = data['title'] + '_' + data['artist']
                 
                 if (len(table.row(key))) == 0:
-                    data['plays'] = row['Streams']
+                    data['plays'] = float(row['Streams'])
                     data['days'] = 1
                 else: #already in table, update values
                     olddata = json.loads(table.row(key).itervalues().next())
-                    data['plays'] = int(row['Streams']) + int(olddata['plays'])
+                    data['plays'] = float(row['Streams']) + float(olddata['plays'])
                     data['days'] = 1 + int(olddata['days'])
                 
                 b.put(key,{SPOTIFY_COLF + ':' + SPOTIFY_COL : json.dumps(data)})
-                b.send()                    
-
-                if key not in song_days:
-                    song_days[key] = 1
-                    song_plays[key] = int(data['plays'])
-                else:
-                    song_days[key] += 1
-                    song_plays[key] += int(data['plays'])
-
-
-song_days = sorted(song_days.items(), key=lambda x: x[1], reverse=True)
-song_plays = sorted(song_plays.items(), key = lambda x: x[1], reverse=True)
+            
+            b.send()                    
 
 
