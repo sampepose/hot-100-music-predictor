@@ -13,7 +13,7 @@ from twitter.getFeatures import getTwitterFeatures
 from spotify_data.machinelearning.getFeatures import getSpotifyFeatures
 from discogs_data.machinelearning.getFeatures import getDiscogsFeatures
 from spotify_data.songfeatures.fetchAudioData import getAudioData
-
+from spotify_data.machinelearning.getCounts import getDaysPlays
 
 def classify(YPredProba, thresh):
     labels = []
@@ -59,10 +59,12 @@ def main():
     twitter_features = getTwitterFeatures(keys)
     spotify_features = getSpotifyFeatures(keys)
     discogs_features = getDiscogsFeatures(keys)
+    
+    days_plays_features = getDaysPlays(keys)
 
-    XIdxs = [0, 1, 2, 3]
-    XNames = ["Dep", "Twitter", "Spotify", "Discogs"]
-    Xs = [depfeatures, twitter_features, spotify_features, discogs_features]
+    XIdxs = [0, 1, 2, 3, 4]
+    XNames = ["Dep", "Twitter", "Spotify", "Discogs", "DaysPlays"]
+    Xs = [depfeatures, twitter_features, spotify_features, discogs_features, days_plays_features]
     Y = labels
 
     # Test each feature set combination
