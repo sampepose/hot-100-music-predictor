@@ -6,12 +6,12 @@ import re
 from sklearn.feature_extraction import DictVectorizer
 import numpy as np
 
-from variables import MACHINE, VUID, FINAL_FEATURES
-
+from variables import MACHINE, VUID, FINAL_FEATURES, BBRD_TABLE
     
 connection = happybase.Connection(MACHINE + '.vampire', table_prefix=VUID)
 table = connection.table(FINAL_FEATURES)
-
+bbtable = connection.table(BBRD_TABLE)
+ 
 #Features to keep running stats of:
     
 count = 0
@@ -24,17 +24,19 @@ a_duration = []
 
 spotify_features = []
 
+
 # Stats for ALL songs in dependent table that have features
 for key, d in table.scan():
 
-    data = json.loads(d.itervalues().next())
-    count = count + 1
-    a_energy.append(data['energy'])
-    a_liveness.append(data['liveness'])
-    a_tempo.append(data['tempo'])
-    a_speechiness.append(data['speechiness'])
-    a_danceability.append(data['danceability'])
-    a_duration.append(data['duration'])
+    if (len(bbtable.row(key))) != 0:# get stats for songs just in top 100
+        data = json.loads(d.itervalues().next())
+        count = count + 1
+        a_energy.append(data['energy'])
+        a_liveness.append(data['liveness'])
+        a_tempo.append(data['tempo'])
+        a_speechiness.append(data['speechiness'])
+        a_danceability.append(data['danceability'])
+        a_duration.append(data['duration'])
 
 energy = np.array(a_energy)
 live   = np.array(a_liveness)
