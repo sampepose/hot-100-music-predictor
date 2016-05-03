@@ -13,6 +13,7 @@ from twitter.getFeatures import getTwitterBaseline, getTwitterSpecial
 from spotify_data.machinelearning.getFeatures import getSpotifyFeatures
 from spotify_data.machinelearning.getFeatures import getSpecialSpotifyFeatures
 from discogs_data.machinelearning.getFeatures import getDiscogsFeatures
+from discogs_data.machinelearning.getFeatures_2 import getDiscogsFeatures_2
 from spotify_data.songfeatures.fetchAudioData import getAudioData
 from spotify_data.machinelearning.getCounts import getDaysPlays
 
@@ -62,10 +63,11 @@ def main():
     spotify_features = getSpotifyFeatures(keys)
     spotify_special = getSpecialSpotifyFeatures(keys)
     discogs_features = getDiscogsFeatures(keys)
+    discogs_features_2 = getDiscogsFeatures_2(keys)
     days_plays_features = getDaysPlays(keys)
 
-    XNames = ["Dep", "TwitterBaseline", "TwitterSpecial", "SpotifyBaseline", "SpotifySpecial", "Discogs", "DaysPlays"]
-    Xs = [depfeatures, twitter_baseline, twitter_special, spotify_features, spotify_special, discogs_features, days_plays_features]
+    XNames = ["Dep", "TwitterBaseline", "TwitterSpecial", "SpotifyBaseline", "SpotifySpecial", "Discogs","DiscogsMean", "DaysPlays"]
+    Xs = [depfeatures, twitter_baseline, twitter_special, spotify_features, spotify_special, discogs_features, discogs_features_2, days_plays_features]
     XIdxs = range(0, len(Xs))
     Y = labels
 
