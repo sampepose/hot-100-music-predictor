@@ -7,4 +7,10 @@ May 1st, 2016
 # Get hot 100 data
 `pip install billboard`
 
-`python -m bbrd_data.getBillboards`
+`pip install discogs_client`
+
+`pip install spotipy`
+
+# Run prediction
+`python -m machinelearning.predict`
+
